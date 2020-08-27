@@ -4,8 +4,6 @@ description: 'You will learn: basic concepts and terms used in the AI/ML communi
 
 # ML Terminology
 
-
-
 ## Artificial Intelligence
 
 * **Artificial Intelligence**: A non-human program or model that can solve sophisticated tasks. For example, a program or model that translates text or a program or model that identifies diseases from radiologic images both exhibit artificial intelligence.
@@ -26,7 +24,7 @@ description: 'You will learn: basic concepts and terms used in the AI/ML communi
 * **Loss function**: \(also called cost function\) evaluates the penalty between the prediction and the ground truth label in every batch.
   * **Mean Absolute Error \(MAE\)**: measures the average squared difference between the actual and predicted labels in the form of:
 
-    $MSE = \frac{1}{N}\sum\_{i=1}^{n}{\(y\_i-\(mx\_i+b\)\)^2}$
+    $ MSE = \frac{1}{N}\sum\_{i=1}^{n}{\(y\_i-\(mx\_i+b\)\)^2}$
 * **Data augmentation**: Artificially boosting the range and number of training examples by transforming existing examples to create additional examples. For example, suppose images are one of your features, but your dataset doesn't contain enough image examples for the model to learn useful associations. Ideally, you'd add enough labeled images to your dataset to enable your model to train properly. If that's not possible, data augmentation can rotate, stretch, and reflect each image to produce many variants of the original picture, possibly yielding enough labeled data to enable excellent training.
 * **Fine-tuning**: training technique that requires replacing the last fully connected layer of the network with a new classification task and use the training data from the new domain to update the weights of some layers.
 
