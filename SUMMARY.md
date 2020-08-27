@@ -11,6 +11,7 @@
 ## Machine Learning
 
 * [Why ML, and why now](machine-learning/why-ml-and-why-now.md)
+* [ML Terminology](machine-learning/ml-terminology.md)
 
 ## Data Management
 
