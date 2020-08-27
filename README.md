@@ -23,10 +23,6 @@ _This is a **constantly growing and expanding** course, meaning that some sectio
 * **Manage your time** to go through the course material at your own pace and manage your time.
 * **Practice** with real-world examples built by industry experts.
 
-## Introduction
-
-This section will debrief the main[ 🎯Objectives](https://productize.ml/Objectives-2abf4db47bb745748f745efa276e5b85) of the course,[ 📌Guidelines](https://productize.ml/Guidelines-44840ce96a424e4390a6856878b65d59) and tools to use, ways the learner can interact and contribute to the course, and a clear course description in [ 📒Syllabus](https://productize.ml/Syllabus-6f397bb844a64337a09a0092125a40fb). It also includes exercises a series of tips in order to successfully complete the course.
-
 ![](.gitbook/assets/course-lectures.png)
 
 ## Lectures
