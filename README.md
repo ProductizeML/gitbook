@@ -12,9 +12,11 @@ description: >-
 
 ## Welcome!
 
-**WELCOME** to the Productize ML course! This course is about building outstanding and practical products from Machine Learning solutions. For more information on how to start this course, please read the course's[ 🎯Objectives](https://productize.ml/Objectives-2abf4db47bb745748f745efa276e5b85) and[ 📌Guidelines](https://productize.ml/Guidelines-44840ce96a424e4390a6856878b65d59).
+**WELCOME** to the **ProductizeML** course! 
 
-_This is a **constantly growing and expanding** course, meaning that some sections might be under construction 🚧 — do NOT panic, and instead leave a message of what you would like to see!_
+This course is about building outstanding and practical products from Machine Learning solutions. For more information on how to start this course, please read the course's[ ](https://productize.ml/Objectives-2abf4db47bb745748f745efa276e5b85)**Objectives** and[ ](https://productize.ml/Guidelines-44840ce96a424e4390a6856878b65d59)**Guidelines**. 
+
+This is a **constantly growing and expanding** course, meaning that some sections might be under construction 🚧 — do NOT panic, and instead leave a message of what you would like to see!
 
 ### About the course
 
@@ -25,9 +27,9 @@ _This is a **constantly growing and expanding** course, meaning that some sectio
 
 ![](.gitbook/assets/course-lectures.png)
 
-## Lectures
+## Course __Lectures
 
-\_\_
+## Guest __Lectures
 
-
+_Coming soon!_ 
 

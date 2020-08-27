@@ -10,7 +10,7 @@ This course is taught in an interactive environment that lets learners exchange 
 
 Example of interaction between learners, course and instructors.
 
-## Requirements and Prework
+## Requirements and Pre-work
 
 The course includes 4h of hands-on experience practices for which a basic understanding of Python and Keras is required. For the rest of the course, there are no technical prerequisites.
 

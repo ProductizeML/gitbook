@@ -12,7 +12,7 @@ Brief description and best practices in order to access datasets, availability a
 
 ## Lecture 3: Train and Evaluation
 
-In this section, we will review the main framework and hardware required to train and evaluate ML models, as well as recommended techniques to follow when training these complex architectures such as data processing techniques, understanding concepts like overfitting and underfitting, when data augmentation is needed, common mistakes and solutions to optimize the performance of these models, as well as ways of evaluating and monitor your model training.
+In this section, we will review the main framework and hardware required to train and evaluate ML models, as well as recommended techniques to follow when training these complex architectures such as data processing techniques, understanding concepts like over-fitting and under-fitting, when data augmentation is needed, common mistakes and solutions to optimize the performance of these models, as well as ways of evaluating and monitor your model training.
 
 ## Lecture 4: Productize _it_
 
