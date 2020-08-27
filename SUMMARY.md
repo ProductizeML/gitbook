@@ -12,6 +12,7 @@
 
 * [Why ML, and why now](machine-learning/why-ml-and-why-now.md)
 * [ML Terminology](machine-learning/ml-terminology.md)
+* [Supervised Learning](machine-learning/supervised-learning.md)
 
 ## Data Management
 
