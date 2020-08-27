@@ -2,11 +2,11 @@
 
 * [Productize ML](README.md)
 
-## Introduction <a id="introduction-1"></a>
+## Introduction
 
-* [Objectives](introduction-1/objectives.md)
-* [Guidelines](introduction-1/guidelines.md)
-* [Syllabus](introduction-1/untitled.md)
+* [Objectives](introduction/objectives.md)
+* [Guidelines](introduction/guidelines.md)
+* [Syllabus](introduction/untitled.md)
 
 ## Machine Learning
 
