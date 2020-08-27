@@ -1,10 +1,12 @@
+---
+description: 'You will learn: reasons behind the raise of AI in the industry.'
+---
+
 # Why ML, and why now
 
 **Machine Learning** is an Artificial Intelligence subfield that, in short words, combines big data and statistical techniques to enable computer systems to learn from past examples and generalize when making predictions on unseen cases.
 
-![](../.gitbook/assets/2018-04-13_1322.png)
-
-AI-ML-DL graphic 
+![AI-ML-DL graphic](../.gitbook/assets/2018-04-13_1322.png)
 
 Machine Learning has been a hot topic since decades around academia, but it has recently takeoff in the Industry sectors to thanks to big **four phenomenons**:
 
@@ -15,11 +17,7 @@ Machine Learning has been a hot topic since decades around academia, but it has 
 
 When all these four pieces are put together and taken to production, a need for standardization and regulation of processes is strongly recommended so the community can work and evolve as a whole and within a sense of collaboration.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/31bd9042-1833-448b-ad35-f16cebc3f75f/3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/31bd9042-1833-448b-ad35-f16cebc3f75f/3.png)
+![Machine learning types and their applications](../.gitbook/assets/3.png)
 
-[Machine learning types and their applications](https://developer.ibm.com/recipes/tutorials/machine-learning-and-ibm-watson-studio/)
-
-[27 Incredible Examples Of AI And Machine Learning In Practice](https://www.forbes.com/sites/bernardmarr/2018/04/30/27-incredible-examples-of-ai-and-machine-learning-in-practice/#3518919a7502)
-
-There are in fact many cases where
+{% embed url="https://www.forbes.com/sites/bernardmarr/2018/04/30/27-incredible-examples-of-ai-and-machine-learning-in-practice/\#3ea53e7c7502" %}
 
