@@ -35,11 +35,7 @@ _Coming soon!_
 
 \_\_
 
-\_\_
-
 Follow [us on Twitter](https://twitter.com/productizeML)!
-
-
 
 **Have a question or suggestion?** Reach me out at `adria@productize.ml` .
 
