@@ -32,14 +32,11 @@
 
 * [ML Product Development Process](productize-it/untitled.md)
 * [Measuring Business Impact](productize-it/measuring-business-impact.md)
+* [PM Terminology](productize-it/pm-terminology.md)
 
 ## Resources
 
 * [Readings](resources/readings.md)
 * [Courses](resources/courses.md)
 * [Videos](resources/videos.md)
-
----
-
-* [PM Terminology](pm-terminology.md)
 
