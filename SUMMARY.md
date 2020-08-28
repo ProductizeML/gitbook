@@ -31,6 +31,7 @@
 ## Productize It
 
 * [ML Product Development Process](productize-it/untitled.md)
+* [Measuring Business Impact](productize-it/measuring-business-impact.md)
 
 ## Resources
 
@@ -40,5 +41,5 @@
 
 ---
 
-* [Measuring Business Impact](measuring-business-impact.md)
+* [PM Terminology](pm-terminology.md)
 
