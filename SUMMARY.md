@@ -35,9 +35,6 @@
 ## Resources
 
 * [Readings](resources/readings.md)
-
----
-
-* [Courses](courses.md)
-* [Videos](videos.md)
+* [Courses](resources/courses.md)
+* [Videos](resources/videos.md)
 
