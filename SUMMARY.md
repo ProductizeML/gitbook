@@ -30,3 +30,7 @@
 
 * [Untitled](productize-it/untitled.md)
 
+---
+
+* [Training Neural Networks](training-neural-networks.md)
+
