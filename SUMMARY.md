@@ -32,3 +32,7 @@
 
 * [Untitled](productize-it/untitled.md)
 
+## Resources
+
+* [Readings](resources/readings.md)
+
