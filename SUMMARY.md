@@ -25,12 +25,9 @@
 ## Train and Evaluate
 
 * [Framework and Hardware](train-and-evaluate/untitled.md)
+* [Training Neural Networks](train-and-evaluate/training-neural-networks.md)
 
 ## Productize It
 
 * [Untitled](productize-it/untitled.md)
-
----
-
-* [Training Neural Networks](training-neural-networks.md)
 
