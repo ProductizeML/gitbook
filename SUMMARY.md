@@ -39,4 +39,5 @@
 ---
 
 * [Courses](courses.md)
+* [Videos](videos.md)
 
