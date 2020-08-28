@@ -20,6 +20,7 @@
 
 * [Data Access](data-management/untitled.md)
 * [Data Collection](data-management/data-collection.md)
+* [Data Curation](data-management/data-curation.md)
 
 ## Train and Evaluate
 
@@ -28,8 +29,4 @@
 ## Productize It
 
 * [Untitled](productize-it/untitled.md)
-
----
-
-* [Data Curation](data-curation.md)
 
