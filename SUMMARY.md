@@ -13,10 +13,13 @@
 * [Why ML, and why now](machine-learning/why-ml-and-why-now.md)
 * [ML Terminology](machine-learning/ml-terminology.md)
 * [Supervised Learning](machine-learning/supervised-learning.md)
+* [Unsupervised Learning](machine-learning/unsupervised-learning.md)
+* [Deep Learning](machine-learning/deep-learning.md)
 
 ## Data Management
 
-* [Untitled](data-management/untitled.md)
+* [Data Access](data-management/untitled.md)
+* [Data Collection](data-management/data-collection.md)
 
 ## Train and Evaluate
 

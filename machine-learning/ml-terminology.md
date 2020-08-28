@@ -24,7 +24,10 @@ description: 'You will learn: basic concepts and terms used in the AI/ML communi
 * **Loss function**: \(also called cost function\) evaluates the penalty between the prediction and the ground truth label in every batch.
   * **Mean Absolute Error \(MAE\)**: measures the average squared difference between the actual and predicted labels in the form of:
 
-    $ MSE = \frac{1}{N}\sum\_{i=1}^{n}{\(y\_i-\(mx\_i+b\)\)^2}$
+$$
+MSE = \frac{1}{N}\sum_{i=1}^{n}{(y_i-(mx_i+b))^2}
+$$
+
 * **Data augmentation**: Artificially boosting the range and number of training examples by transforming existing examples to create additional examples. For example, suppose images are one of your features, but your dataset doesn't contain enough image examples for the model to learn useful associations. Ideally, you'd add enough labeled images to your dataset to enable your model to train properly. If that's not possible, data augmentation can rotate, stretch, and reflect each image to produce many variants of the original picture, possibly yielding enough labeled data to enable excellent training.
 * **Fine-tuning**: training technique that requires replacing the last fully connected layer of the network with a new classification task and use the training data from the new domain to update the weights of some layers.
 
@@ -34,9 +37,9 @@ description: 'You will learn: basic concepts and terms used in the AI/ML communi
 * **Iterations**: The number of iterations is the number forward or backward of passes: each pass using a batch size number of images.
 * **Epoch**: The number of epochs measures how many times every image has been seen during training \(i.e. one epoch means that every image has been seen once\). It can be also understood as a one forward pass and one backward pass of all the training examples.
 
-epochs = \frac{batch size \* iterations}{training images}
-
-
+$$
+epochs = \frac{batch size * iterations}{trainingimages}
+$$
 
 * **Decay**: The weight decay is an additional weight update parameter that induces the weights to exponentially decay to zero once the update process is over.
 * **Learning rate**: The learning rate parameter defines the step size for which the weights of a model are updated regarding the stochastic gradient descent.
