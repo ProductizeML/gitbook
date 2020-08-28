@@ -36,3 +36,7 @@
 
 * [Readings](resources/readings.md)
 
+---
+
+* [Courses](courses.md)
+
