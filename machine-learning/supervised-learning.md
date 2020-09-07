@@ -88,7 +88,7 @@ We can distinguish between three types:
 
    Same idea as in \(2\) Multi-class classification, but this time the predictions are ordered with a sense of positioning. An example case could be a restaurant service rating choice among "poor", "fair", "good", and "excellent".
 
-## 3. Suport Vector Machines
+## 3. Support Vector Machines
 
 **Support vector machines \(SVMs\)** are a set of supervised machine learning algorithms for classification, regression, and outlier detection that are built around hyperplane separation of the data. In a two dimensional space, this separation can be understood as a simple decision boundary in the form of a line, but SVMs are also effective in high dimensional spaces.
 
