@@ -1,5 +1,5 @@
 ---
-description: 'You will learn: reasons behind the raise of AI in the industry.'
+description: Reasons behind the raise of AI in the industry.
 ---
 
 # Why ML, and why now

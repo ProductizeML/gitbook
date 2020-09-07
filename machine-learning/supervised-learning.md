@@ -22,21 +22,21 @@ We can distinguish between two types:
 
    When just considering a single variable as input data, the linear regression line can be expressed with an equation of the form:
 
-   ```text
-        $\\sf{y = mx + b}$
-   ```
+$$
+y = mx + b
+$$
 
-   where $m$ and $b$ are the weights our algorithm will try to “learn” to provide the most accurate predictions $_y_$. 𝑥 represents our input data and 𝑦 represents our prediction.
+where `m` and `b` are the weights our algorithm will try to “learn” to provide the most accurate predictions `y`. 𝑥 represents our input data and 𝑦 represents our prediction.
 
-   Given [Example 1](https://www.notion.so/adriaromero/Supervised-Learning-00b1f403bb5b4223be3f74cf9f5c4560#3504c61ecd5f438599779f7aa0f6f875), linear regression would let us predict the economic activity \($y$\) from the number of people \($x\)$. For instance, for a region with 30 million people, the expected GDP value would be about $1,400 billion.
+Given [Example 1](https://www.notion.so/adriaromero/Supervised-Learning-00b1f403bb5b4223be3f74cf9f5c4560#3504c61ecd5f438599779f7aa0f6f875), linear regression would let us predict the economic activity \(`y`\) from the number of people \(`x`\). For instance, for a region with 30 million people, the expected GDP value would be about $1,400 billion.
 
-   The same inverse logic could be applied if trying to predict the population \($x$\) from its economic activity \($x$\). In that case, we would reverse the regression equation to:
+The same inverse logic could be applied if trying to predict the population \(`x`\) from its economic activity \(`x`\). In that case, we would reverse the regression equation to:
 
-   ```text
-        $\\sf{x = \\frac{y -b}{m}}$
-   ```
+$$
+\sf{x = \frac{y -b}{m}}
+$$
 
-2. **Multivariable regression**
+1. **Multi-variable regression**
 
    Following the same idea, if several variables play a role in the linear prediction, multiple weights $w\_i$ will apply to each variable in the following form:
 
