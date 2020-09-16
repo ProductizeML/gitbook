@@ -20,9 +20,8 @@ This is, in fact, a really important point this course focuses on: how to measur
 
 ![](../.gitbook/assets/screen_shot_2020-06-27_at_1.30.09_pm.png)
 
-An AI Product Manager \(PM\) has core product skills \(strategy, roadmaps, prioritization, etc.\) along with an intuitive grasp of ML
-
-* They help identify and prioritize the highest value applications for machine learning and do what it takes to make them successful
+* An AI Product Manager \(PM\) has core product skills \(strategy, road maps, prioritization, etc.\) along with an intuitive grasp of ML.
+* They help identify and prioritize the highest value applications for machine learning and do what it takes to make them successful.
 
 ## Challenges to solve
 
@@ -32,23 +31,14 @@ Throughout the course, we will learn that once a solution is moved into producti
 
 In general terms, this course will provide the learner with:
 
-* Common and most-used **AI**, **Machine Learning**, **Deep Learning**, and **Data Science**
-
-  terminology;
-
-* What someone can expect **realistically** from these systems to do and
-
-  what they actually cannot do;
-
-* Abilities to understand what the **opportunities** of an **AI/ML product** are and how
-
-  these will impact their institution/organization/personal project;
-
+* Common and most-used **AI**, **Machine Learning**, **Deep Learning**, and **Data Science** terminology;
+* What someone can expect **realistically** from these systems to do and what they actually cannot do;
+* Abilities to understand what the **opportunities** of an **AI/ML product** are, and how these can impact their institution, organization or personal project;
 * Computational resources and recommended frameworks;
 * Best practices on data collection and curation;
 * Training, optimization, and monitoring of Machine Learning models;
 * Instructions on how to build reproducible machine learning pipelines;
-* Create continuous and automated integrations to deploy models;
+* Create continuous and automated integration to deploy models;
 * When building a product, what things we want the AI solution to improve or
 
   enhance when compared to traditional solutions;
@@ -57,13 +47,13 @@ In general terms, this course will provide the learner with:
 * Understand real-world cases and users data;
 * Hands-on exercises and assignments;
 
-For more information on how the course is organized, please visit [Syllabus](https://www.notion.so/Syllabus-6f397bb844a64337a09a0092125a40fb).
-
 ## The course
 
-In order to achieve that, this course is online and open-ended regarding the product and technical delivery recommendations. The shared content will get updated periodically in order to guarantee new and state-of-the-art information. The community \(you\) will engage with the course in the form of [chats](https://productizeml.slack.com/join/shared_invite/zt-f5ygmpyq-sr5qQIpGURSC_SEigyDaww#/) and [comments](https://www.notion.so/Sharing-permissions-524c32ac63dc424a842891ace7a99bf8), and they will take an important role in the content of the course as well, promoting a shared course built thanks to every learner. This course is quite unique not only to the content that is delivered given its novelty but also regarding the technologies that will be used. For more information, jump to the course [Guidelines](https://www.notion.so/Guidelines-44840ce96a424e4390a6856878b65d59).
+In order to achieve that, this course is online and open-ended regarding the product and technical delivery recommendations. The shared content will get updated periodically in order to guarantee new and state-of-the-art information. 
 
-The estimated course time will be of 8-10 hours, including course-specific content, recommended readings from other sources like articles and blog posts, and finally a course-specific hands-on experience.
+The community \(you\) will engage with the course in the form of chats and comments, and they will take an important role in the content of the course as well, promoting a shared course built thanks to every learner. This course is quite unique not only to the content that is delivered given its novelty but also regarding the technologies that will be used. 
+
+The estimated course time will be of **8-10 hours**, including course-specific content, recommended readings from other sources like articles and blog posts, and finally a course-specific hands-on experience.
 
 One more time, _**Welcome**_ to this exciting course!
 
