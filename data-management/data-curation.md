@@ -12,9 +12,9 @@ For the case of supervised learning approaches, it is really important to keep y
 
 An example can be found with the lexical database [WordNet](https://wordnet.princeton.edu/) used in the [ImageNet](http://www.image-net.org/) image database.
 
-WordNet's cloud map of concepts
+![WordNet&apos;s cloud map of concepts.](../.gitbook/assets/screen_shot_2020-07-13_at_10.18.58_pm%20%282%29.png)
 
-Most popular synsets in current ImageNet using WordNet's hierarchy
+![Most popular synsets in current ImageNet using WordNet&apos;s hierarchy.](../.gitbook/assets/screen_shot_2020-07-13_at_10.19.34_pm%20%281%29.png)
 
 Examples in the medical domains include making use of medical ontologies, such as [SNOMED](http://www.snomed.org/) or [ICD](https://icd.who.int/en) in order to organize your medical data into standardized disease codes.
 
@@ -24,11 +24,11 @@ A really important idea to keep in mind is that datasets evolve over time, data 
 
 That being said, a potential solution for this problem is to _version_ your dataset using in order to be able access to the right data at any point in time through requesting specific states of this.
 
-DVC tracks ML models and data sets
+![DVC tracks ML models and data sets.](../.gitbook/assets/screen_shot_2020-07-17_at_2.33.37_pm%20%281%29.png)
 
-There are some open-source frameworks like [DVC](https://dvc.org/) that provide checkpointing features of not only your dataset but also models trained on the different versions of your data.
+There are some open-source frameworks like [DVC](https://dvc.org/) that provide check-pointing features of not only your dataset but also models trained on the different versions of your data.
 
-[Data Version Control · DVC](https://dvc.org/)
+{% embed url="https://dvc.org/" %}
 
 ## Data Split
 
@@ -45,5 +45,5 @@ Some considerations when performing the validation and test splits are:
 
 ## Data Quality
 
-It is crucial to never show any test sample at training time to your model. \(Test\) data leaking is common, especially when your solution includes **data flywheel \(discussed in** [Data Collection](https://www.notion.so/Data-Collection-e6be909bd74049bfbba3b7dbaa403a1f)\). If you are obtaining better than expected results when evaluating your model, it is recommended to set up a retrieval system, e.g. [image retrieval systems](https://paperswithcode.com/task/image-retrieval) using deep learning architectures have shown excellent performance at spotting test samples in training subsets.
+It is crucial to never show any test sample at training time to your model. \(Test\) data leaking is common, especially when your solution includes **data flywheel \(discussed in** [Data Collection](data-collection.md)\). If you are obtaining better than expected results when evaluating your model, it is recommended to set up a retrieval system, e.g. [image retrieval systems](https://paperswithcode.com/task/image-retrieval) using deep learning architectures have shown excellent performance at spotting test samples in training subsets.
 
