@@ -50,9 +50,9 @@ where this time $$w_i $$are the coefficients the algorithm will try to â€œlearnâ
 
 | Company | Employees | R&D Investment \($M\) | Income \($M\) | Sales \(M units\) |
 | :--- | :--- | :--- | :--- | :--- |
-| Company A | 15,000 | 2 | 3 | 5 |
-| Company B | 30,000 | 3 | 2 | 3 |
-| Company C | 10,000 | 1.5 | 1 | 2 |
+| A | 15,000 | 2 | 3 | 5 |
+| B | 30,000 | 3 | 2 | 3 |
+| C | 10,000 | 1.5 | 1 | 2 |
 
 In Example 2, we can still predict the sales of a company given the number of employees, investment in R&D and income as follows:
 
