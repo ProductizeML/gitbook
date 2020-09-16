@@ -6,7 +6,7 @@ description: 'You will learn: ways of collecting data.'
 
 Yet working with a public dataset can be difficult to ensure business advantage as a unique asset from potential competitors, so in order to differentiate from others' approaches, someone may consider building our own dataset via user's data collection and labeling, what is known as **data flywheel**, or even generating synthetic data from existing datasets.
 
-Data collection is defined as the first need in the [DS hierarchy of needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007) by Monica Rogati
+![Data collection is defined as the first need in the Data Science hierarchy of needs by Monica Rogati.](../.gitbook/assets/1_7imev5xslc9flxr9hhhpfw%20%281%29.png)
 
 ## Labeling tools
 
@@ -16,15 +16,15 @@ To address this problem, a marketplace has appeared for data labeling services l
 
 Some existing **collecting and** **labeling tools** include:
 
-[Amazon Mechanical Turk](https://www.mturk.com/)
+{% embed url="https://www.mturk.com/" %}
 
-[Scale AI: The Data Platform for AI](https://scale.com/)
+{% embed url="https://scale.com/" %}
 
-[Snorkel AI](https://www.snorkel.ai/)
+{% embed url="https://www.snorkel.ai/" %}
 
-[AI Platform \| Google Cloud](https://cloud.google.com/ai-platform/data-labeling)
+{% embed url="https://appen.com/" %}
 
-[Confidence to Deploy AI with World-Class Training Data](https://appen.com/)
+{% embed url="https://cloud.google.com/ai-platform" %}
 
 ## Synthetic creation
 
@@ -36,9 +36,11 @@ Some of the benefits of synthetic data are:
 2. **Class unbalancing**: it can mitigate problems by generating more samples of the underrepresented classes.  
 3. **Not yet encountered cases**
 
-[Synthetic data generation - a must-have skill for new data scientists](https://towardsdatascience.com/synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae)
+{% embed url="https://towardsdatascience.com/synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae" %}
 
 ## Readings
 
 * [The Data Flywheel: Building momentum by putting your data to work](https://techcloudlink.com/wp-content/uploads/2019/10/The-Data-Flywheel-Building-momentum-by-putting-your-data-to-work.pdf)
+
+{% embed url="https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007" %}
 
