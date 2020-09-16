@@ -32,11 +32,15 @@ This project takes advantage of ConvNets properties regarding input preprocessin
 
 As we mentioned above, optimization algorithms first attempt to solve the problem of underfitting; that is, of taking a line that does not approximate the data well, and making it approximate the data better. A straight line cutting across a curving scatter plot would be a good example of underfitting.
 
+![](../.gitbook/assets/mlconcepts_image5.png)
+
 If the line fits the data too well, we have the opposite problem called “overfitting”. Solving underfitting is the priority, but much effort in machine learning is spent attempting not to overfit the line to the data. When we say a model overfits a dataset we mean it may have a low error rate for the training data but it does not generalize well to the overall population of data we’re interested in.
 
 ## Data Augmentation
 
 We augment a dataset by applying synthetic alterations to individual samples, resulting in a new dataset with an effective size that is larger than the original. The typical goal is for the alterations to result in a synthetic sample that remains representative of the same general class as the source sample, but that cannot be trivially memorized alongside the original. When done properly, this augmentation can increase the training set.
+
+![Effects of data augmentation on some example images of the AgrilPlant dataset. ](../.gitbook/assets/5-figure2-1.png)
 
 ## Transfer Learning
 
