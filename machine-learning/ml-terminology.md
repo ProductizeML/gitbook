@@ -38,7 +38,8 @@ $$
 * **Epoch**: The number of epochs measures how many times every image has been seen during training \(i.e. one epoch means that every image has been seen once\). It can be also understood as a one forward pass and one backward pass of all the training examples.
 
 $$
-epochs = \frac{batch size * iterations}{trainingimages}
+epochs = \frac{batch size * iterations}{training
+images}
 $$
 
 * **Decay**: The weight decay is an additional weight update parameter that induces the weights to exponentially decay to zero once the update process is over.

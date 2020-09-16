@@ -10,27 +10,27 @@ description: >-
 
 **Linear regression** is a supervised machine learning algorithm where the predicted output value keeps a linear \(continuous\) relationship with the input.
 
-**Example 1**: One simple application of linear regression can be used to predict the economic activity of a country in relation to its population.
+#### **Example 1**
 
-![](../.gitbook/assets/screen_shot_2020-06-28_at_2.21.26_pm.png)
+One simple application of linear regression can be used to predict the economic activity of a country in relation to its population.
 
-Figure 1: The regression line represents the continuous range of values between GDP as economic activity measurement and population associated.
+![Figure 1: The regression line represents the continuous range of values between GDP as economic activity measurement and population associated.](../.gitbook/assets/screen_shot_2020-06-28_at_2.21.26_pm.png)
 
 We can distinguish between two types:
 
-1. **Simple regression**
+1. **Simple** **regression**
 
-   When just considering a single variable as input data, the linear regression line can be expressed with an equation of the form:
+When just considering a single variable as input data, the linear regression line can be expressed with an equation of the form:
 
 $$
-y = mx + b
+\sf{y = mx + b}
 $$
 
-where `m` and `b` are the weights our algorithm will try to “learn” to provide the most accurate predictions `y`. 𝑥 represents our input data and 𝑦 represents our prediction.
+Where $$m $$ and $$ b$$ are the weights our algorithm will try to “learn” to provide the most accurate predictions $$y $$ . $$x$$ represents our input data and $$y$$ represents our prediction.
 
-Given [Example 1](https://www.notion.so/adriaromero/Supervised-Learning-00b1f403bb5b4223be3f74cf9f5c4560#3504c61ecd5f438599779f7aa0f6f875), linear regression would let us predict the economic activity \(`y`\) from the number of people \(`x`\). For instance, for a region with 30 million people, the expected GDP value would be about $1,400 billion.
+Given **Exemple 1**, linear regression would let us predict the economic activity \( $$y$$ \) from the number of people \( $$x $$ \). For instance, for a region with 30 million people, the expected GDP value would be about $1,400 billion.
 
-The same inverse logic could be applied if trying to predict the population \(`x`\) from its economic activity \(`x`\). In that case, we would reverse the regression equation to:
+The same inverse logic could be applied if trying to predict the population \( $$x$$ \) from its economic activity \( $$y$$ \). In that case, we would reverse the regression equation to:
 
 $$
 \sf{x = \frac{y -b}{m}}
@@ -38,31 +38,39 @@ $$
 
 1. **Multi-variable regression**
 
-   Following the same idea, if several variables play a role in the linear prediction, multiple weights $w\_i$ will apply to each variable in the following form:
+Following the same idea, if several variables play a role in the linear prediction, multiple weights  $$w_i$$ $$a = b$$ will apply to each variable in the following form:
 
-   $f\(x, y, z\) = w\_1x + w\_2y + w\_3z$
+$$
+f(x, y, z) = w_1x + w_2y + w_3z
+$$
 
-   where this time $m\_i$ are the coefficients the algorithm will try to “learn” to provide the most accurate predictions given $x, y$ and $z$ as input data.
+where this time $$w_i $$are the coefficients the algorithm will try to “learn” to provide the most accurate predictions given $$x, y$$ and $$z$$ as input data.
 
-   [Example 2](https://www.notion.so/fbfc90c8640742d4a316a8bbffbdaf60)
+#### Example 2
 
-   In Example 2, we can still predict the sales of a company given the number of employees, investment in R&D and income as follows:
+| Company | Employees | R&D Investment \($M\) | Income \($M\) | Sales \(M units\) |
+| :--- | :--- | :--- | :--- | :--- |
+| Company A | 15,000 | 2 | 3 | 5 |
+| Company B | 30,000 | 3 | 2 | 3 |
+| Company C | 10,000 | 1.5 | 1 | 2 |
 
-   $sales\_{company D} = w\_1employees + w\_2R\&D investment + w\_3 income$
+In Example 2, we can still predict the sales of a company given the number of employees, investment in R&D and income as follows:
 
-   **Loss function**
+$sales\_{company D} = w\_1employees + w\_2R\&D investment + w\_3 income$
 
-   In order to find the best weights $w\_i$ that minimizes the error between the model's predictions from its ground-truth labels, we must introduce the concept of a **loss value**. We could describe it as the absolute difference between the true value and the predicted one.
+## **Loss function**
 
-   When this measurement is applied to a set of evidences, we call it **loss function** \(or **cost function**\). It can be understood as a measurement of how "good" your model is: the lower the loss, the better your model is.
+In order to find the best weights $$w_i $$ that minimizes the error between the model's predictions from its ground-truth labels, we must introduce the concept of a **loss value**. We could describe it as the absolute difference between the true value and the predicted one.
 
-   For linear regression models, we typically use **Mean Squared Error** \(MSE\) as loss function:
+When this measurement is applied to a set of evidences, we call it **loss function** \(or **cost function**\). It can be understood as a measurement of how "good" your model is: the lower the loss, the better your model is.
 
-   $MSE = \frac{1}{N}\sum\_{i=1}^{n}{\(y\_i-\(mx\_i+b\)\)^2}$
+For linear regression models, we typically use **Mean Squared Error** \(MSE\) as loss function:
 
-   where N is the total number of samples.
+$MSE = \frac{1}{N}\sum\_{i=1}^{n}{\(y\_i-\(mx\_i+b\)\)^2}$
 
-   This way, the goal is to minimize MSE so the accuracy of the model improves. But, how this function can be minimized? The answer is via [Gradient Descent](https://www.notion.so/adriaromero/Neural-Networks-0625d8d3ce3943c5bafb21c2e8a5021a#1299c0cbd0fa4e52a7631362601e7782), covered in the [Neural Networks](https://www.notion.so/Neural-Networks-0625d8d3ce3943c5bafb21c2e8a5021a) section.
+where N is the total number of samples.
+
+This way, the goal is to minimize MSE so the accuracy of the model improves. But, how this function can be minimized? The answer is via [Gradient Descent](https://www.notion.so/adriaromero/Neural-Networks-0625d8d3ce3943c5bafb21c2e8a5021a#1299c0cbd0fa4e52a7631362601e7782), covered in the [Neural Networks](https://www.notion.so/Neural-Networks-0625d8d3ce3943c5bafb21c2e8a5021a) section.
 
 ## 2. Logistic Regression
 
