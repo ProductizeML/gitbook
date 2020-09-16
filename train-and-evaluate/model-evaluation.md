@@ -22,5 +22,5 @@ description: 'You will learn: how to assess to evaluation of ML models.'
 
   $$Specificity = \frac{number \space of \space true \space negatives}{number \space of \space true \space negatives + number \space of \space false \space positives}$$
 
-This section is still under construction!
+🚧 _This section is still under construction!_
 
