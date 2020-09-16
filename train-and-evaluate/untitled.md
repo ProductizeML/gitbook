@@ -8,9 +8,11 @@ description: 'You will learn: most-used framework and hardware for AI and ML app
 
 ### Tensorflow
 
+![](../.gitbook/assets/5fb746ac.png)
+
 [TensorFlow](https://www.tensorflow.org/) is a Google's machine learning open-source platform that focuses on the end-to-end system for managing all aspects of a machine learning system, from training, evaluation, production, and deployment of models. TensorFlow is arranged in a hierarchical APIs structure that allows high-level features such as calls to `tf.keras` \([Keras](https://www.notion.so/adriaromero/Tools-and-computational-power-42bc22ad42094c47b47bc625074819b7#39bdb8ada2a649ad9c7a73edcf9e8c55) framework reviewed below\) to low-level APIs features like model deployment and deep exploration of ML models.
 
-[TensorFlow toolkit hierarchy](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/toolkit)
+![TensorFlow toolkit hierarchy.](../.gitbook/assets/screen_shot_2020-07-10_at_4.53.35_pm.png)
 
 Tensorflow ecosystem is build to allow an easy and fast development of ML models using Python, JavaScript, Swift and mobile platforms like iOS, Android and Raspberry.
 
@@ -23,6 +25,8 @@ Tensorflow provides built-in libraries and extensions such as:
 * **Serving**: A TFX serving system for ML models, designed for high-performance in production environments.
 
 ### Keras
+
+![](../.gitbook/assets/bcd37306.png)
 
 [Keras](https://keras.io/) is a deep learning framework that was initially released in March 2015. Keras provides a layer of abstraction on top of TensorFlow or Theano. The reason why it is used is :
 
@@ -40,9 +44,11 @@ Keras also offers other extensions such as:
 
 ### PyTorch
 
+![](../.gitbook/assets/fdc3523f.png)
+
 PyTorch is a library for Python programs that facilitates building deep learning projects. It emphasizes flexibility and allows deep learning models to be expressed in idiomatic Python. This approachability and ease of use found early adopters in the research community, and in the years since its first release, it has grown into one of the most prominent deep learning tools across a broad range of applications.
 
-[High-level structure of an end-to-end PyTorch project](https://pytorch.org/deep-learning-with-pytorch)
+![High-level structure of an end-to-end PyTorch project.](../.gitbook/assets/screen_shot_2020-07-10_at_5.58.48_pm.png)
 
 ### AutoML
 
@@ -56,5 +62,5 @@ Under construction! ✍️ Get back soon!
 
 ## Readings
 
-[What's the Difference Between a CPU vs a GPU? \| NVIDIA Blog](https://blogs.nvidia.com/blog/2009/12/16/whats-the-difference-between-a-cpu-and-a-gpu/)
+{% embed url="https://blogs.nvidia.com/blog/2009/12/16/whats-the-difference-between-a-cpu-and-a-gpu/" %}
 
