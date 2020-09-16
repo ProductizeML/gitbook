@@ -1,5 +1,7 @@
 # ML Product Development Process
 
+![ML lifecycle by Nisha Talagala](../.gitbook/assets/stages_of_machine_learning_lifecycle.png)
+
 ## Business needs
 
 The first step before thinking about the type of data, model architectures, types of deployments, or infrastructure that you are going to use, is quite simple: define what the problem you want to solve. And most of the cases this means defining your **business needs**.
@@ -14,11 +16,11 @@ Depending on the complexity of the problem to solve, we will determine the type 
 
 A safe approach to start incorporating AI solutions to your product is by measuring the **risks and impact** of your product's features and start with those with lower risk and higher impact.
 
-Risk impact assessment for ML products
+![Risk impact assessment for ML products.](../.gitbook/assets/component_1.png)
 
 ## Data
 
-As previously mentioned in the [Data Management](https://www.notion.so/Data-Management-70af813123034980bb2da12d2900346a) lecture, getting access to the matching data domain of your problem and curating this data is a time-consuming and demanding job. For this reason, it can introduce risk factors as previously mentioned in the [Risk impact assessment for ML products](https://www.notion.so/adriaromero/ML-Product-Development-Process-b1e89c35dc524c818d608be05f121b62#2f8a9027af104862b9b984295bb15eeb) table.
+As previously mentioned in the [Data Access](../data-management/untitled.md) lecture, getting access to the matching data domain of your problem and curating this data is a time-consuming and demanding job. For this reason, it can introduce risk factors as previously mentioned in the _Risk impact assessment for ML products_ table.
 
 Data and ML technologies live always in **symbiosis**. We can also see it as ML being the hammer, and data the nail — the hammer will completely be useless without the presence of the nail. And not only that, but we will find plenty of types of nail and hammers, but only finding the right match will make it work.
 
@@ -34,13 +36,15 @@ Before starting to develop your own models, you should probably spend some time 
 
 You can find platforms like [Model Zoo](https://modelzoo.co/), that curates and organizes research works and makes deep learning pre-trained models available to either plugging it into your system or training it on the top of their task. You can find different categories that go from computer vision, NLP, unsupervised learning, or reinforcement learning.
 
+{% embed url="https://modelzoo.co/" %}
+
 Only if you cannot find related work, then it is time to do some research to try to come up with the most optimal technology set up around network architectures, tools to use, hyper-parameters values, etc.
 
 ## Train, Test and Deploy Models
 
 Once you deploy the first version of your product is when you really start working it since you will start understanding better your users and their real needs.
 
-End-to-end workflow for training, evaluation and deploying models
+![End-to-end workflow for training, evaluation and deploying models.](../.gitbook/assets/component_1%20%281%29.png)
 
 Firstly, it is crucial to understand that your data will keep growing over time, and the sooner you can feed it back to your system, the better your model will generalize to your problem domain.
 
@@ -69,5 +73,5 @@ During this iteration process, there must be constant communication between prod
 
 ## Readings
 
-[7 Artificial Intelligence Trends and How They Work With Operational Machine Learning](https://blogs.oracle.com/datascience/7-artificial-intelligence-trends-and-how-they-work-with-operational-machine-learning-v2)
+{% embed url="https://blogs.oracle.com/datascience/7-artificial-intelligence-trends-and-how-they-work-with-operational-machine-learning-v2" %}
 
