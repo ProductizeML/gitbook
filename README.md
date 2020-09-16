@@ -75,6 +75,14 @@ This is a **constantly growing and expanding** course, meaning that some section
 
 {% page-ref page="productize-it/pm-terminology.md" %}
 {% endtab %}
+
+{% tab title="Resources" %}
+{% page-ref page="resources/readings.md" %}
+
+{% page-ref page="resources/courses.md" %}
+
+{% page-ref page="resources/videos.md" %}
+{% endtab %}
 {% endtabs %}
 
 Follow [us on Twitter](https://twitter.com/productizeML)!

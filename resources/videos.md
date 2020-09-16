@@ -2,8 +2,7 @@
 
 ## Lectures
 
-| Name | Author\(s\) |
-| :--- | :--- |
-| [Product Management for AI](https://www.youtube.com/watch?v=iMaqGHkUKgI) | Peter Skomoroch |
-| [Product Management for AI by Google PM](https://youtu.be/CiJT36D8SZc) | Trevor Back |
+{% embed url="https://www.youtube.com/watch?v=iMaqGHkUKgI" %}
+
+{% embed url="https://www.youtube.com/watch?v=CiJT36D8SZc&feature=youtu.be" %}
 
