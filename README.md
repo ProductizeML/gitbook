@@ -27,13 +27,55 @@ This is a **constantly growing and expanding** course, meaning that some section
 
 ![](.gitbook/assets/course-lectures.png)
 
-## Course __Lectures
+## Course Lectures
 
-## Guest __Lectures
+### Course Breakdown
 
-_Coming soon!_ 
+{% tabs %}
+{% tab title="Introduction" %}
+{% page-ref page="introduction/objectives.md" %}
 
-\_\_
+{% page-ref page="introduction/guidelines.md" %}
+
+{% page-ref page="introduction/untitled.md" %}
+{% endtab %}
+
+{% tab title="Machine Learning" %}
+{% page-ref page="machine-learning/why-ml-and-why-now.md" %}
+
+{% page-ref page="machine-learning/ml-terminology.md" %}
+
+{% page-ref page="machine-learning/supervised-learning.md" %}
+
+{% page-ref page="machine-learning/unsupervised-learning.md" %}
+
+{% page-ref page="machine-learning/deep-learning.md" %}
+{% endtab %}
+
+{% tab title="Data Management" %}
+{% page-ref page="data-management/untitled.md" %}
+
+{% page-ref page="data-management/data-collection.md" %}
+
+{% page-ref page="data-management/data-curation.md" %}
+{% endtab %}
+
+{% tab title="Train and Evaluate" %}
+{% page-ref page="train-and-evaluate/untitled.md" %}
+
+{% page-ref page="train-and-evaluate/training-neural-networks.md" %}
+
+{% page-ref page="train-and-evaluate/model-evaluation.md" %}
+{% endtab %}
+
+{% tab title="Productize It" %}
+{% page-ref page="productize-it/untitled.md" %}
+
+{% page-ref page="productize-it/measuring-business-impact.md" %}
+
+{% page-ref page="productize-it/pm-terminology.md" %}
+{% endtab %}
+{% endtabs %}
 
 Follow [us on Twitter](https://twitter.com/productizeML)!
 
