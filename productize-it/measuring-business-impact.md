@@ -24,16 +24,16 @@ A/B testing can help to obtain research statistical significance when running tw
 
 And after each iteration, try to answer:
 
-* Did the user visit the next day?
-* How long did the user visit the site?
-* What were the daily active users?
+* **Did the user visit the next day?**
+* **How long did the user visit the site?**
+* **What were the daily active users?**
 
 Along with the study, you should conduct user research questions like:
 
-* Is the user happy using the product?
-* Is the user satisfied with the experience?
-* Is the product improving the user’s overall well­being?
-* How will this affect the company’s overall health?
+* **Is the user happy using the product?**
+* **Is the user satisfied with the experience?**
+* **Is the product improving the user’s overall well­being?**
+* **How will this affect the company’s overall health?**
 
 Since most all of these questions are hard measure, Product Managers tend to use proxies in order to assess questions in an open way: if the user is happy with the product, they will stay on the site for a longer time. If the user is satisfied, they will visit again tomorrow.
 
@@ -41,9 +41,11 @@ Another recommended approach when measuring and monitoring your solution in orde
 
 ## Readings
 
-[MLP vs MVP vs MMP/MSP: Comparison and Main Differences](https://themindstudios.com/blog/mlp-vs-mvp-vs-mmp)
+{% embed url="https://themindstudios.com/blog/mlp-vs-mvp-vs-mmp/" %}
 
-[A/B Testing: How to Get It Right](https://hbr.org/2017/09/the-surprising-power-of-online-experiments)
+{% embed url="https://hbr.org/2017/09/the-surprising-power-of-online-experiments" %}
 
-[Notes from the AI frontier: Modeling the impact of AI on the world economy](https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-modeling-the-impact-of-ai-on-the-world-economy)
+{% embed url="https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-modeling-the-impact-of-ai-on-the-world-economy" %}
+
+
 
