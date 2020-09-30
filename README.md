@@ -6,7 +6,7 @@ description: >-
 
 # Productize ML
 
-## A self-study guide for Developers and Product Managers building Machine Learning products
+## A self-study guide for Developers and Product Managers building Machine Learning products;
 
 ![](.gitbook/assets/intro-menu.png)
 
