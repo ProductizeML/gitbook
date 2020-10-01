@@ -85,7 +85,7 @@ This is a **constantly growing and expanding** course, meaning that some section
 {% endtab %}
 {% endtabs %}
 
-Join the community at [![Join the community at https://gitter.im/ProductizeML/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/diffplug/gitfromscratch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)and follow us on [Twitter](https://twitter.com/productizeML/)!
+Join the community at [![Join the community at https://gitter.im/ProductizeML/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ProductizeML/community)and follow us on [Twitter](https://twitter.com/productizeML/)!
 
 **Have a question or suggestion?** You can reach us at [`adria@productize.ml`](mailto:adria@productize.ml) .
 
