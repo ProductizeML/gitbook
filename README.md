@@ -10,15 +10,9 @@ description: >-
 
 ![](.gitbook/assets/intro-menu.png)
 
-## Welcome!
-
 **WELCOME** to the **ProductizeML** course! 
 
 This course is about building outstanding and practical products from Machine Learning solutions. For more information on how to start this course, please read the course's[ ](https://productize.ml/Objectives-2abf4db47bb745748f745efa276e5b85)**Objectives** and[ ](https://productize.ml/Guidelines-44840ce96a424e4390a6856878b65d59)**Guidelines**. 
-
-{% hint style="info" %}
-This is a **constantly growing and expanding** course, meaning that some sections might be under construction 🚧 — do NOT panic, and instead leave a message of what you would like to see!
-{% endhint %}
 
 ### About the course
 
@@ -28,6 +22,12 @@ This is a **constantly growing and expanding** course, meaning that some section
 * **Practice** with real-world examples built by industry experts.
 
 ![](.gitbook/assets/course-lectures.png)
+
+Join the community at [![Join the community at https://gitter.im/ProductizeML/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ProductizeML/community)and follow us on [Twitter](https://twitter.com/productizeML/)!
+
+{% hint style="info" %}
+This is a **constantly growing and expanding** course, meaning that some sections might be under construction 🚧 — do NOT panic, and instead leave a message of what you would like to see!
+{% endhint %}
 
 ## Course Lectures
 
@@ -86,8 +86,6 @@ This is a **constantly growing and expanding** course, meaning that some section
 {% page-ref page="resources/videos.md" %}
 {% endtab %}
 {% endtabs %}
-
-Join the community at [![Join the community at https://gitter.im/ProductizeML/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ProductizeML/community)and follow us on [Twitter](https://twitter.com/productizeML/)!
 
 **Have a question or suggestion?** You can reach us at [`adria@productize.ml`](mailto:adria@productize.ml) .
 
