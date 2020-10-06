@@ -10,7 +10,7 @@ description: >-
 
 ![](.gitbook/assets/intro-menu.png)
 
-**WELCOME** to the **ProductizeML** course! 
+**WELCOME** to the **Productize ML** course! 
 
 This course is about building outstanding and practical products from Machine Learning solutions. For more information on how to start this course, please read the course's[ ](https://productize.ml/Objectives-2abf4db47bb745748f745efa276e5b85)\*\*\*\*[**Objectives**](introduction/objectives.md) and[ ](https://productize.ml/Guidelines-44840ce96a424e4390a6856878b65d59)\*\*\*\*[**Guidelines**](introduction/guidelines.md). 
 
