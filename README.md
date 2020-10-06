@@ -18,7 +18,7 @@ This course is about building outstanding and practical products from Machine Le
 
 * **Learn** **to** **develop** an AI product that can be included in your business solution.
 * **Join the community** to interact and share impressions with mentors and students.
-* **Manage your time** to go through the course material at your own pace and manage your time.
+* **Manage your time** to go through the course material at your own pace.
 * **Practice** with real-world examples built by industry experts.
 
 ![](.gitbook/assets/course-lectures.png)
