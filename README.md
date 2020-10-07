@@ -31,7 +31,7 @@ This is a **constantly growing and expanding** course, meaning that some section
 
 ## Instructors
 
-![](.gitbook/assets/team%20%281%29.png)
+![](.gitbook/assets/team.png)
 
 ## Course Lectures
 
