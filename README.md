@@ -29,6 +29,10 @@ Join the community at [![Join the community at https://gitter.im/ProductizeML/co
 This is a **constantly growing and expanding** course, meaning that some sections might be under construction 🚧 — do NOT panic, and instead leave a message of what you would like to see!
 {% endhint %}
 
+## Instructors
+
+![](.gitbook/assets/team%20%281%29.png)
+
 ## Course Lectures
 
 ### Course Breakdown
