@@ -93,5 +93,9 @@ This is a **constantly growing and expanding** course, meaning that some section
 {% endtab %}
 {% endtabs %}
 
+## Newsletter
+
+{% embed url="https://form.typeform.com/to/V4BDqjYA" %}
+
 **Have a question or suggestion?** You can reach us at [`adria@productize.ml`](mailto:adria@productize.ml) .
 
