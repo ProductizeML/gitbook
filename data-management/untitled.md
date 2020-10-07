@@ -8,7 +8,7 @@ In all ML scenarios, data plays a crucial role respect the overall solution sinc
 
 In this section, we will describe ways of getting access to data, either via a public access, collection of custom data, and best practices to curate it before passing it to the training algorithm.
 
-![The world&#x2019;s most valuable resource is no longer oil, but data.](../.gitbook/assets/20170506_ldd001_0%20%281%29.jpg)
+![The world&#x2019;s most valuable resource is no longer oil, but data. Illustration by David Parkings.](../.gitbook/assets/20170506_ldd001_0%20%282%29.jpg)
 
 ## Availability and challenges
 

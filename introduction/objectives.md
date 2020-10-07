@@ -55,5 +55,5 @@ The community \(you\) will engage with the course in the form of chats and comme
 
 The estimated course time will be of **8-10 hours**, including course-specific content, recommended readings from other sources like articles and blog posts, and finally a course-specific hands-on experience.
 
-One more time, _**Welcome**_ to this exciting course!
+Once again, _**Welcome**_ to this exciting course!
 

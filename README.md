@@ -6,22 +6,26 @@ description: >-
 
 # Productize ML
 
-## A self-study guide for Developers and Product Managers building Machine Learning products
+## About the course
 
-![](.gitbook/assets/intro-menu.png)
+**Productize ML** provides guidelines and best practices for managing the end-to-end ML lifecycle around the _productization_ of Machine Learning solutions.
 
-**WELCOME** to the **Productize ML** course! 
+The course will start diving into the fundamentals around the **Machine Learning** algorithms, from the supervised and unsupervised learning strategies, to the latest advances in deep learning techniques; followed by the 
 
-This course is about building outstanding and practical products from Machine Learning solutions. For more information on how to start this course, please read the course's[ ](https://productize.ml/Objectives-2abf4db47bb745748f745efa276e5b85)\*\*\*\*[**Objectives**](introduction/objectives.md) and[ ](https://productize.ml/Guidelines-44840ce96a424e4390a6856878b65d59)\*\*\*\*[**Guidelines**](introduction/guidelines.md). 
+Once a solution is moved into production, there are some concerns we might face related to data dependencies and changes in the external world, model complexity, reproducibility, testing, monitoring, model deployment, and quick delivery of new models. All these are covered in the course to the point that the learner will feel confident about how to tackle them after completing the course.
 
-### About the course
+![](.gitbook/assets/course-lectures.png)
+
+## Why Productize ML?
 
 * **Learn** **to** **develop** an AI product that can be included in your business solution.
 * **Join the community** to interact and share impressions with mentors and students.
 * **Manage your time** to go through the course material at your own pace.
 * **Practice** with real-world examples built by industry experts.
 
-![](.gitbook/assets/course-lectures.png)
+![](.gitbook/assets/intro-menu.png)
+
+For more information on how to start this course, please read the course's[ ](https://productize.ml/Objectives-2abf4db47bb745748f745efa276e5b85)\*\*\*\*[**Objectives**](introduction/objectives.md) and[ ](https://productize.ml/Guidelines-44840ce96a424e4390a6856878b65d59)\*\*\*\*[**Guidelines**](introduction/guidelines.md). 
 
 Join the community at [![Join the community at https://gitter.im/ProductizeML/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ProductizeML/community)and follow us on [Twitter](https://twitter.com/productizeML/)!
 
