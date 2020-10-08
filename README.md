@@ -12,7 +12,7 @@ description: >-
 
 The course will start diving into the fundamentals around the **Machine Learning** algorithms, from the supervised and unsupervised learning strategies to the latest advances in deep learning techniques; followed by some recommended ways of **accessing and managing data**. Tips and best practices when **training and evaluating models** will be provided. And last but not least, the core piece of this course: how to **bring it to production** and make an outstanding product out of it! 
 
-![](.gitbook/assets/course-lectures.png)
+![](.gitbook/assets/course-lectures%20%281%29.png)
 
 ## Why Productize ML?
 
@@ -21,7 +21,7 @@ The course will start diving into the fundamentals around the **Machine Learning
 * **Manage your time** to go through the course material at your own pace.
 * **Practice** with real-world examples built by industry experts.
 
-![](.gitbook/assets/intro-menu.png)
+![](.gitbook/assets/intro.png)
 
 For more information on how to start this course, please read the course's[ ](https://productize.ml/Objectives-2abf4db47bb745748f745efa276e5b85)\*\*\*\*[**Objectives**](introduction/objectives.md) and[ ](https://productize.ml/Guidelines-44840ce96a424e4390a6856878b65d59)\*\*\*\*[**Guidelines**](introduction/guidelines.md). 
 
@@ -33,7 +33,7 @@ This is a **constantly growing and expanding** course, meaning that some section
 
 ## Instructors
 
-![](.gitbook/assets/team.png)
+![](.gitbook/assets/team%20%281%29.png)
 
 ## Course Lectures
 
@@ -95,7 +95,9 @@ This is a **constantly growing and expanding** course, meaning that some section
 
 ## Newsletter
 
-{% embed url="https://form.typeform.com/to/V4BDqjYA" %}
+{% embed url="https://adria756514.typeform.com/to/V4BDqjYA" %}
+
+
 
 **Have a question or suggestion?** You can reach us at [`adria@productize.ml`](mailto:adria@productize.ml) .
 
