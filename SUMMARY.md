@@ -40,3 +40,9 @@
 * [Courses](resources/courses.md)
 * [Videos](resources/videos.md)
 
+## Hands On
+
+* [Get Started with Python](hands-on/get_started_python/README.md)
+  * [Introduction](hands-on/get_started_python/introduction.md)
+  * [Python Installation](hands-on/get_started_python/python-installation.md)
+
