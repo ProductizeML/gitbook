@@ -4,7 +4,7 @@
 
 If you are reading this, you are probably interested or thinking about coming up with a product that uses any type of Artificial Intelligence or Machine Learning algorithm in order to automate an existing repetitive and time-consuming task with a high-performer AI solution. And not only that, but you want to ship this product to users, so you can collect real-world data, and fed it again to your product so it can learn from it and become smarter over time.
 
-![We should se AI as part of the current innovation strategies and tools we have been offered.](../.gitbook/assets/0a4f6cee5752d6f5bbbcb09692964032.jpg)
+![We should see AI as part of the current innovation strategies and tools we have been offered.](../.gitbook/assets/0a4f6cee5752d6f5bbbcb09692964032.jpg)
 
 ## Productizing ML solutions
 
