@@ -25,7 +25,7 @@ The course will start diving into the fundamentals around the **Machine Learning
 
 For more information on how to start this course, please read the course's[ ](https://productize.ml/Objectives-2abf4db47bb745748f745efa276e5b85)\*\*\*\*[**Objectives**](introduction/objectives.md) and[ ](https://productize.ml/Guidelines-44840ce96a424e4390a6856878b65d59)\*\*\*\*[**Guidelines**](introduction/guidelines.md). 
 
-Join the community at [![Join the community at https://gitter.im/ProductizeML/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ProductizeML/community)and follow us on [Twitter](https://twitter.com/productizeML/)!
+Join the community at [![Discord](https://camo.githubusercontent.com/721a04c8d44d23c9284fbe1eac71f39b6f544db7/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3436333735323832303032363337363230322e7376673f6c6162656c3d266c6f676f3d646973636f7264266c6f676f436f6c6f723d66666666666626636f6c6f723d373338394438266c6162656c436f6c6f723d364137454332)](https://discord.gg/gP6z2nR) and follow us on [Twitter](https://twitter.com/productizeML/)!
 
 {% hint style="info" %}
 This is a **constantly growing and expanding** course, meaning that some sections might be under construction 🚧 — do NOT panic, and instead leave a message of what you would like to see!
