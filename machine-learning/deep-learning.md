@@ -75,7 +75,7 @@ where $$x$$ is the input to the network, $$w_h$$ , and $$w_o $$ are the hidden l
 
 The **backpropagation algorithm** has the objective of helping the neural network to learn the parameters by adjusting each weight in proportion to how much it reduces the overall error. Following this idea, the better we can adjust the weights, the smaller the error will be and the better the model predictions will become.
 
-The same way forwardpropagation follows a long series of nested equations, the backpropagation algorithm can be seen as the "transposed" process by applying the [Chain rule](https://en.wikipedia.org/wiki/Chain_rule) to find the derivatives of the loss function with respect to any variable in the forwardpass equation $$f(x) = A(B(C(x)))$$ , being $$A, B$$ and $$C$$ activation functions at different layers. 
+The same way forwardpropagation follows a long series of nested equations, the backpropagation algorithm can be seen as the "transposed" process by applying the [Chain rule](https://en.wikipedia.org/wiki/Chain_rule) to find the derivatives of the loss function with respect to any variable in the forward-pass equation $$f(x) = A(B(C(x)))$$ , being $$A, B$$ and $$C$$ activation functions at different layers. 
 
 If we apply the Chain rule to $$f(x)$$ , it will look like:
 
@@ -91,11 +91,11 @@ The **gradient descent** is used as an optimization algorithm in order to minimi
 
 ![In this topographic example, our goal would be to move from the top red areas \(highest loss values\) to the bottom yellow areas \(lowest loss values\). ](../.gitbook/assets/island-topographic-map-d-illustration-topographical-elevation-colors-blue-to-red-88079494.png)
 
-The step size for which the weights of a model are updated regarding gradient descent is called **learning rate**. Common types of gradient descent algorithms include [Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent).
+The step size for which the weights of a model are updated regarding gradient descent is called the **learning rate**. Common types of gradient descent algorithms include [Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent).
 
 ## Activation Functions
 
-**Activation functions** try to simulate the natural behavior of neuronal firing when neurons communicate with each other through electrical impulses. This time, though, the activation function is found inside the neural network and is responsible of by-passing the model's feature information from one layer to the following ones. In order to replicate the neuronal firing process, activation functions are mathematical "gates" that can be represented as linear or non-linear functions.
+**Activation functions** try to simulate the natural behavior of neuronal firing when neurons communicate with each other through electrical impulses. This time, though, the activation function is found inside the neural network and is responsible for by-passing the model's feature information from one layer to the following ones. In order to replicate the neuronal firing process, activation functions are mathematical "gates" that can be represented as linear or non-linear functions.
 
 ![Activation function representation by missinglink.ai](../.gitbook/assets/activationfunction-1.png)
 
@@ -116,7 +116,7 @@ The most common activation functions used in neural networks architectures are:
 
 ## Loss functions
 
-The **loss function** is used to measure how well the network's predicted scores agrees with the ground truth labels in the input data. As we have previously mentioned when describing the gradient descent algorithm, in order to obtain the gradients, the loss function needs to be differentiable at all times. Most used loss functions are [MSE \(L2\)](https://en.wikipedia.org/wiki/Mean_squared_error) and [Cross-entropy](https://en.wikipedia.org/wiki/Cross_entropy).
+The **loss function** is used to measure how well the network's predicted scores agree with the ground truth labels in the input data. As we have previously mentioned when describing the gradient descent algorithm, in order to obtain the gradients, the loss function needs to be differentiable at all times. Most used loss functions are [MSE \(L2\)](https://en.wikipedia.org/wiki/Mean_squared_error) and [Cross-entropy](https://en.wikipedia.org/wiki/Cross_entropy).
 
 ## Readings
 
