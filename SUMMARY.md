@@ -43,6 +43,8 @@
 ## Hands On
 
 * [Get Started with Python](hands-on/get_started_python/README.md)
-  * [Introduction](hands-on/get_started_python/introduction.md)
-  * [Python Installation](hands-on/get_started_python/python-installation.md)
+  * [Python for Machine Learning](hands-on/get_started_python/introduction.md)
+  * [Python Installation](hands-on/get_started_python/python-installation/README.md)
+    * [MacOS](hands-on/get_started_python/python-installation/python_macos.md)
+    * [Linux](hands-on/get_started_python/python-installation/python_linux.md)
 

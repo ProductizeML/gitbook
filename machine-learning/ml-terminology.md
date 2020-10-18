@@ -21,15 +21,15 @@ description: 'You will learn: basic concepts and terms used in the AI/ML communi
 
 ### Training
 
-* **Loss function**: \(also called cost function\) evaluates the penalty between the prediction and the ground truth label in every batch.
-  * **Mean Absolute Error \(MAE\)**: measures the average squared difference between the actual and predicted labels in the form of:
+* **Loss function**: Or also called **cost function**, evaluates the error between the prediction and the ground truth label in every batch. For instance:
+  * **Mean Squared Error \(MSE\)**: measures the average squared difference between the actual and predicted labels in the form of:
 
 $$
 MSE = \frac{1}{N}\sum_{i=1}^{n}{(y_i-(mx_i+b))^2}
 $$
 
-* **Data augmentation**: Artificially boosting the range and number of training examples by transforming existing examples to create additional examples. For example, suppose images are one of your features, but your dataset doesn't contain enough image examples for the model to learn useful associations. Ideally, you'd add enough labeled images to your dataset to enable your model to train properly. If that's not possible, data augmentation can rotate, stretch, and reflect each image to produce many variants of the original picture, possibly yielding enough labeled data to enable excellent training.
-* **Fine-tuning**: training technique that requires replacing the last fully connected layer of the network with a new classification task and use the training data from the new domain to update the weights of some layers.
+* **Data augmentation**: Regularization method used to decrease the model's variance error consisting in artificially increasing the number and variance of training samples by transforming existing samples to create additional samples. For example, if images are one of the system features, data augmentation can rotate, crop, and reflect each image to produce many variants of the original,  yielding more variate labeled data to decrease the model's error.
+* **Fine-tuning**:  Technique used to re-train a pre-trained neural network \(usually in a transfer learning setting\) on a new task with training data from a new domain where the weights of some layers or the whole network may be updated.
 
 #### Hyperparameters
 
@@ -38,7 +38,7 @@ $$
 * **Epoch**: The number of epochs measures how many times every image has been seen during training \(i.e. one epoch means that every image has been seen once\). It can be also understood as a one forward pass and one backward pass of all the training examples.
 
 $$
-epochs = \frac{batch size * iterations}{training
+epochs = \frac{batch\_size * iterations}{training\_
 images}
 $$
 
@@ -54,8 +54,20 @@ $$
 * **Precision**: which is computed as the fraction of retrieved instances that are relevant.
 * **Specificity**: computed as the fraction of true negatives that are correctly identified.
 
-### Preprocessing
+### Data Preprocessing
 
-* **Mean subtraction**: in order to center the cloud of RGB values from input data around zero along every dimension of the image, a mean subtraction is applied across the image features.
+* **Handling null values:**  Drop samples with null values or replace the null value with some predefined value \(e.g. feature mean or median\). 
+* **Standardization:** transform our features  values such that the mean of the values
+
+   is 0 and the standard deviation is 1.
+
+* **Handling categorical variables:** A categorical variable is a variable whose values take on the value of labels. For example, the variable may be _color_ and may take on the values “_purple_,” “_white_,” and “_black_.”  There are many ways to encode categorical variables, although the three most common are as follows:
+  1. **One Hot Encoding**: Where each label is mapped to a binary vector.
+  2. **Integer Encoding**: Where each unique label is mapped to an integer.
+  3. **Learned Embedding**: Where a distributed representation of the categories is learned.
+
+### Image Data Preprocessing
+
+* **Mean subtraction**: in order to center the cloud of RGB values from input data around zero along every dimension of the image, a mean subtraction can be applied across the image features.
 * **Image normalization**: By dividing each RGB dimension of input images by its standard deviation, a normalization is obtained from its original 0 and 255-pixel values to 1 an 0 normalized values. This preprocessing technique will avoid further issues caused by poor contrast images.
 
