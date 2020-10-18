@@ -12,7 +12,7 @@ Yet working with a public dataset can be difficult to ensure business advantage 
 
 Datasets can sometimes contain errors on the labels or even lack of them. An example can be when gathering data from your users, this data is pretty valuable since it belongs to the domain you want to solve but you will only have access to the ML models predictions. Obviously this is not enough, and you might want to properly label the samples by human labelers experts on that task.
 
-To address this problem, a marketplace has appeared for data labeling services like image classification, object detection in images, object segmentation, video frame tagging, object tracking in videos, or text classification. In some tasks, the costs associated to the knowledge required to complete the labeling process successfully is quite expensive, and in those cases, a hybrid method between human and ML-based labeling solution can reduce the task's cost.
+To address this problem, a marketplace has appeared for data labeling services like image classification, object detection in images, object segmentation, video frame tagging, object tracking in videos, or text classification. In some tasks, the costs associated with the knowledge required to complete the labeling process successfully is quite expensive, and in those cases, a hybrid method between human and ML-based labeling solution can reduce the task's cost.
 
 Some existing **collecting and** **labeling tools** include:
 
