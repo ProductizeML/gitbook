@@ -4,11 +4,11 @@ description: 'You will learn: best practices to train neural networks.'
 
 # Training Neural Networks
 
-In this section, you will learn some of the techniques that are suggested before, during and after a model has been trained.
+In this section, you will learn some of the techniques that are suggested before, during, and after a model has been trained.
 
 ## Data preprocessing
 
-This project takes advantage of ConvNets properties regarding input preprocessing: few pre- vious processing techniques are needed. Although some basic preprocessing forms are performed:
+This project takes advantage of ConvNets properties regarding input preprocessing: few previous processing techniques are needed. Although some basic preprocessing forms are performed:
 
 * **Mean subtraction**. In order to center the cloud of RGB values from input data around
 
@@ -30,7 +30,7 @@ This project takes advantage of ConvNets properties regarding input preprocessin
 
 ## Overfitting vs. Underfitting
 
-As we mentioned above, optimization algorithms first attempt to solve the problem of underfitting; that is, of taking a line that does not approximate the data well, and making it approximate the data better. A straight line cutting across a curving scatter plot would be a good example of underfitting.
+As we mentioned above, optimization algorithms first attempt to solve the problem of underfitting; that is, of taking a line that does not approximate the data well and making it approximate the data better. A straight line cutting across a curving scatter plot would be a good example of underfitting.
 
 ![](../.gitbook/assets/mlconcepts_image5.png)
 

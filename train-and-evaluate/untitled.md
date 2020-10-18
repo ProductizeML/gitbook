@@ -14,7 +14,7 @@ description: 'You will learn: most-used framework and hardware for AI and ML app
 
 ![TensorFlow toolkit hierarchy.](../.gitbook/assets/screen_shot_2020-07-10_at_4.53.35_pm.png)
 
-Tensorflow ecosystem is build to allow an easy and fast development of ML models using Python, JavaScript, Swift and mobile platforms like iOS, Android and Raspberry.
+Tensorflow ecosystem is build to allow easy and fast development of ML models using Python, JavaScript, Swift, and mobile platforms like iOS, Android, and Raspberry.
 
 Tensorflow provides built-in libraries and extensions such as:
 
@@ -30,8 +30,8 @@ Tensorflow provides built-in libraries and extensions such as:
 
 [Keras](https://keras.io/) is a deep learning framework that was initially released in March 2015. Keras provides a layer of abstraction on top of TensorFlow or Theano. The reason why it is used is :
 
-1. **Modularity**: users can define their neural networks following a sequence which is a linear stack of layers;
-2. **Minimalism**: functions included in the library allow the user to create and modify network layers easily; and 
+1. **Modularity**: users can define their neural networks following a sequence which is a linear stack of layers.
+2. **Minimalism**: functions included in the library allow the user to create and modify network layers easily. 
 3. **Extensibility**: daily updates provide solutions to ongoing challenges faced by deep learning researchers. 
 
 Moreover, Keras works in Python environments, which gives users the freedom to use additional Python dependencies.
