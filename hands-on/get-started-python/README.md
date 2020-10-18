@@ -18,5 +18,5 @@ From [_Wikipedia_](https://en.wikipedia.org/wiki/Python_%28programming_language%
 >
 > Rather than having all of its functionality built into its core, Python was designed to be highly extensible. This compact modularity has made it particularly popular as a means of adding programmable interfaces to existing applications.
 
-Continue reading why we recommend using [Python for Machine Learning](introduction.md) or jump to the [installation guide](python-installation/). 
+Continue reading why we recommend using [Python for Machine Learning](python-ml.md) or jump to the [installation guide](python-installation/). 
 

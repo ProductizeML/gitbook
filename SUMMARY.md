@@ -40,11 +40,11 @@
 * [Courses](resources/courses.md)
 * [Videos](resources/videos.md)
 
-## Hands On
+## Hands-On
 
-* [Get Started with Python](hands-on/get_started_python/README.md)
-  * [Python for Machine Learning](hands-on/get_started_python/introduction.md)
-  * [Python Installation](hands-on/get_started_python/python-installation/README.md)
-    * [MacOS](hands-on/get_started_python/python-installation/python_macos.md)
-    * [Linux](hands-on/get_started_python/python-installation/python_linux.md)
+* [Get Started with Python](hands-on/get-started-python/README.md)
+  * [Python for Machine Learning](hands-on/get-started-python/python-ml.md)
+  * [Python Installation](hands-on/get-started-python/python-installation/README.md)
+    * [MacOS](hands-on/get-started-python/python-installation/python_macos.md)
+    * [Linux](hands-on/get-started-python/python-installation/python_linux.md)
 

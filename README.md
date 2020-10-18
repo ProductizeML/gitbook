@@ -86,6 +86,12 @@ This course is **constantly growing and expanding**, meaning that some sections 
 {% page-ref page="productize-it/pm-terminology.md" %}
 {% endtab %}
 
+{% tab title="Hands-on Practice" %}
+{% page-ref page="hands-on/get-started-python/python-ml.md" %}
+
+{% page-ref page="hands-on/get-started-python/python-installation/" %}
+{% endtab %}
+
 {% tab title="Resources" %}
 {% page-ref page="resources/readings.md" %}
 
