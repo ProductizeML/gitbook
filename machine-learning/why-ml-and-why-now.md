@@ -8,7 +8,7 @@ description: Reasons behind the raise of AI in the industry.
 
 ![AI-ML-DL graphic](../.gitbook/assets/2018-04-13_1322.png)
 
-Machine Learning has been a hot topic since decades around academia, but it has recently takeoff in the Industry sectors to thanks to big **four phenomenons**:
+Machine Learning has been a hot topic for decades around academia, but it has recently takeoff in the Industry sectors to thanks to the big **four phenomenons**:
 
 1. the **algorithms** and **research** **advances** \(Krizhevsky, 2012; Ioffe, 2015; Lan, 2019; Srivastava, 2014; Radford, 2019\) that have demonstrated and proven the potential benefits that these technologies could have in society when brought to production.
 2. the **digitization process** and access to new **data sources** \(Brickley, 2019\) that let the large artificial networks generalize to new unseen cases and therefore automating some of our daily tasks with smarter decisions.

@@ -26,9 +26,9 @@ $$
 \sf{y = mx + b}
 $$
 
-Where $$m $$ and $$ b$$ are the weights our algorithm will try to “learn” to provide the most accurate predictions $$y $$ . $$x$$ represents our input data and $$y$$ represents our prediction.
+Where $$m $$ and $$ b$$ are the weights our algorithm will try to “learn” to provide the most accurate predictions $$y $$. $$x$$ represents our input data and $$y$$ represents our prediction.
 
-Given **Exemple 1**, linear regression would let us predict the economic activity \( $$y$$ \) from the number of people \( $$x $$ \). For instance, for a region with 30 million people, the expected GDP value would be about $1,400 billion.
+Given **Example 1**, linear regression would let us predict the economic activity \( $$y$$ \) from the number of people \( $$x $$ \). For instance, for a region with 30 million people, the expected GDP value would be about $1,400 billion.
 
 The same inverse logic could be applied if trying to predict the population \( $$x$$ \) from its economic activity \( $$y$$ \). In that case, we would reverse the regression equation to:
 
@@ -44,7 +44,7 @@ $$
 f(x, y, z) = w_1x + w_2y + w_3z
 $$
 
-where this time $$w_i $$are the coefficients the algorithm will try to “learn” to provide the most accurate predictions given $$x, y$$ and $$z$$ as input data.
+where this time $$w_i $$are the coefficients the algorithm will try to “learn” to provide the most accurate predictions given $$x, y$$, and $$z$$ as input data.
 
 #### Example 2
 
@@ -64,9 +64,9 @@ $$
 
 In order to find the best weights $$w_i $$ that minimizes the error between the model's predictions from its ground-truth labels, we must introduce the concept of a **loss value**. We could describe it as the absolute difference between the true value and the predicted one.
 
-When this measurement is applied to a set of evidences, we call it **loss function** \(or **cost function**\). It can be understood as a measurement of how "good" your model is: the lower the loss, the better your model is.
+When this measurement is applied to a set of evidence, we call it **loss function** \(or **cost function**\). It can be understood as a measurement of how "good" your model is: the lower the loss, the better your model is.
 
-For linear regression models, we typically use **Mean Squared Error** \(MSE\) as loss function:
+For linear regression models, we typically use **Mean Squared Error** \(MSE\) as a loss function:
 
 $$
 MSE = \frac{1}{N}\sum_{i=1}^{n}{(y_i-(mx_i+b))^2}
@@ -96,7 +96,7 @@ We can distinguish between three types:
 
 1. **Binary classification**
 
-   This regression type only considers situations in which the observed outcome for a dependent variable only takes two types. An example case we might use logistic regression to classify lung cancer as benign or malignant.
+   This regression type only considers situations in which the observed outcome for a dependent variable only takes two types. As an example, we might use logistic regression to classify lung cancer as benign or malignant.
 
 2. **Multi-class classification**
 
@@ -123,6 +123,6 @@ These tree structures are easy to represent and interpret. Leaves on the tree re
 ![An example of a decision tree with the objective of predicting if the weather is good or not for a hike. Source: https://www.sciencedirect.com/topics/computer-science/decision-trees](../.gitbook/assets/3-s2.0-b978012817358900010x-gr007.jpg)
 
 {% hint style="info" %}
-When grouping multiple decision trees together, we refer to this ensemble of models as **random forests**.
+When grouping multiple decision trees together, we refer to this ensemble of models like **random forests**.
 {% endhint %}
 

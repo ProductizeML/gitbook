@@ -69,5 +69,5 @@ $$
 ### Image Data Preprocessing
 
 * **Mean subtraction**: in order to center the cloud of RGB values from input data around zero along every dimension of the image, a mean subtraction can be applied across the image features.
-* **Image normalization**: By dividing each RGB dimension of input images by its standard deviation, a normalization is obtained from its original 0 and 255-pixel values to 1 an 0 normalized values. This preprocessing technique will avoid further issues caused by poor contrast images.
+* **Image normalization**: By dividing each RGB dimension of input images by its standard deviation, a normalization is obtained from its original 0 and 255-pixel values to 1 and 0 normalized values. This preprocessing technique will avoid further issues caused by poor contrast images.
 
