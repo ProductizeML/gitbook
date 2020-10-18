@@ -2,19 +2,19 @@
 
 ## Let your product be _smart_
 
-If you are reading this, you are probably interested or thinking about coming up with a product that uses any type of Artificial Intelligence or Machine Learning algorithm in order to automate an existing repetitive and time-consuming task with a high-performer AI solution. And not only that, but you want to ship this product to users, so you can collect real-world data, and fed it again to your product so it can learn from it and become smarter over time.
+If you are reading this, you are probably interested in or thinking about building a product that uses some form of Artificial Intelligence or Machine Learning. Maybe you want to make predictions from the data you are generating using a trained ML model, or maybe you want to automate existing repetitive and time-consuming tasks with a high-performing AI solution. You might also be thinking about how you can ship these solutions as new products or features for your users so you can provide them value and collect real-world data, and feed it back to your product so it can become better over time.
 
 ![We should see AI as part of the current innovation strategies and tools we have been offered.](../.gitbook/assets/0a4f6cee5752d6f5bbbcb09692964032.jpg)
 
 ## Productizing ML solutions
 
-In the past recent years, large consumer and Data-driven companies like Google, Facebook, Uber, and Netflix have already deployed ML in scale in their production pipeline as [recommendation systems](https://research.google/pubs/pub45530/), personalize ads, and optimize search results. This was probably thanks to their large data log and big data tools, but even without this key piece, any company should be able to ship a first MVP AI product so users can start adopting and .
+In recent years, large consumer and data-driven companies such as Netflix, Facebook, and  Google have already deployed ML at scale in their production pipeline as [recommendation systems](https://research.google/pubs/pub45530/), targeted ads, and optimized search results. These solutions were enabled by leveraging their massive amount of data and big data tools, but even without these key pieces, any company should be able to ship their first AI product.
 
 ## Measuring Business Impact
 
 The course that you are about to start will provide you with guidelines and best practices for the productization of Machine Learning solutions and how businesses can benefit from incorporating AI into their current pipelines.
 
-This is, in fact, a really important point this course focuses on: how to measure the business impact and success of your product not only from the technology point of view but also how it is presented to users and these benefits from it.
+This is, in fact, a really important point this course focuses on how to measure the business impact and success of your product not only from the technology point of view but also how it is presented to users and these benefits from it.
 
 ## ML Product Management
 
@@ -33,7 +33,7 @@ In general terms, this course will provide the learner with:
 
 * Common and most-used **AI**, **Machine Learning**, **Deep Learning**, and **Data Science** terminology;
 * What someone can expect **realistically** from these systems to do and what they actually cannot do;
-* Abilities to understand what the **opportunities** of an **AI/ML product** are, and how these can impact their institution, organization or personal project;
+* Abilities to understand what the **opportunities** of an **AI/ML product** are, and how these can impact their institution, organization, or personal project;
 * Computational resources and recommended frameworks;
 * Best practices on data collection and curation;
 * Training, optimization, and monitoring of Machine Learning models;

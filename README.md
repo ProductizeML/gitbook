@@ -10,14 +10,16 @@ description: >-
 
 **Productize ML** provides guidelines and best practices for managing the end-to-end ML lifecycle around the _productization_ of Machine Learning solutions.
 
+This course is about building outstanding and practical products from Machine Learning solutions. For more information on how to start this course, please read the course's[ ](https://productize.ml/Objectives-2abf4db47bb745748f745efa276e5b85)\*\*\*\*[**Objectives**](introduction/objectives.md) and[ ](https://productize.ml/Guidelines-44840ce96a424e4390a6856878b65d59)\*\*\*\*[**Guidelines**](introduction/guidelines.md). 
+
 The course will start diving into the fundamentals around the **Machine Learning** algorithms, from the supervised and unsupervised learning strategies to the latest advances in deep learning techniques; followed by some recommended ways of **accessing and managing data**. Tips and best practices when **training and evaluating models** will be provided. And last but not least, the core piece of this course: how to **bring it to production** and make an outstanding product out of it! 
 
 ![](.gitbook/assets/course-lectures%20%281%29.png)
 
 ## Why Productize ML?
 
-* **Learn** **to** **develop** an AI product that can be included in your business solution.
-* **Join the community** to interact and share impressions with mentors and students.
+* **Learn** **to** **develop** an ML product that can be included in your business solution.
+* **Join the community** to interact and share with mentors and fellow students.
 * **Manage your time** to go through the course material at your own pace.
 * **Practice** with real-world examples built by industry experts.
 
@@ -28,7 +30,7 @@ For more information on how to start this course, please read the course's[ ](ht
 Join the community at [![Discord](https://camo.githubusercontent.com/721a04c8d44d23c9284fbe1eac71f39b6f544db7/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3436333735323832303032363337363230322e7376673f6c6162656c3d266c6f676f3d646973636f7264266c6f676f436f6c6f723d66666666666626636f6c6f723d373338394438266c6162656c436f6c6f723d364137454332)](https://discord.gg/gP6z2nR) and follow us on [Twitter](https://twitter.com/productizeML/)!
 
 {% hint style="info" %}
-This is a **constantly growing and expanding** course, meaning that some sections might be under construction 🚧 — do NOT panic, and instead leave a message of what you would like to see!
+This course is **constantly growing and expanding**, meaning that some sections might be under construction 🚧 — do NOT panic, and instead leave a message of what you would like to see!
 {% endhint %}
 
 ## Instructors
