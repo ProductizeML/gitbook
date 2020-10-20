@@ -4,16 +4,16 @@ description: You will learn the end-to-end process to develop an ML product.
 
 # ML Life Cycle
 
-![](../.gitbook/assets/ml_lifecycle.png)
+![](../.gitbook/assets/ml_life_cycle.png)
 
 ## Business Objectives
 
-The first step before thinking about the type of data, model architectures, types of deployments, or infrastructure that you are going to use, is quite simple: define what the problem you want to solve. And most of the times this means defining your **business needs**.
+Before thinking about the type of data, model architectures, types of deployments, or even infrastructure that you are going to use, the first step when defining your strategy towards building an AI product is quite simple: you should be able to define the **business needs**.
 
-Some questions that might help in defining the business needs are:
+Some questions that might help in defining these needs are:
 
 * **What service or feature my product would benefit from automation?**
-* **What internal processes and business assets I can make more efficient?** Machine Learning can also help you not only build better products, but also in your internal processes.
+* **What internal processes and business assets I can make more efficient?** Machine Learning can also help you not only build better products but also in your internal processes.
 * **How does my data look like?** Data can definitely guide you to define a new product feature and evaluate it as a potential business need.
 
 Depending on the complexity of the problem to solve, we will determine the type of solution required. In most of the cases, Machine Learning approaches adds more uncertainty to the product roadmaps, so we do not want to overcomplicate a solution that can be solved with traditional approaches. So you should start with simple approaches that can partially solve your problem, and gradually increase the coverage of this.

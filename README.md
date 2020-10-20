@@ -10,7 +10,7 @@ description: >-
 
 **Productize ML** provides guidelines and best practices for managing the **end-to-end Machine Learning life cycle** and its _productization_.
 
-![](.gitbook/assets/ml_lifecycle.png)
+![](.gitbook/assets/ml_life_cycle.png)
 
 The course will start diving into the fundamentals around the **Machine Learning** algorithms, from the supervised and unsupervised learning strategies to the latest advances in deep learning techniques; followed by some recommended ways of **accessing and managing data**. Tips and best practices when **training and evaluating models** will be provided. And last but not least, the core piece of this course: how to **bring it to production** and make an outstanding product out of it! 
 
