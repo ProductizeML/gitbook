@@ -6,7 +6,7 @@ Each lecture contains a series of short and practical lessons and recommended re
 
 ## Tools
 
-This course is taught in an interactive environment that lets learners exchange opinions and thoughts with the instructors and community. In order to achieve that, a really important part of this course does not only live in the content pages exclusively but also in its community  \(_join the Discord if you have not do it yet!_[![Discord](https://camo.githubusercontent.com/721a04c8d44d23c9284fbe1eac71f39b6f544db7/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3436333735323832303032363337363230322e7376673f6c6162656c3d266c6f676f3d646973636f7264266c6f676f436f6c6f723d66666666666626636f6c6f723d373338394438266c6162656c436f6c6f723d364137454332)](https://discord.gg/gP6z2nR)\) and page comments.
+This course is taught in an interactive environment that lets learners exchange opinions and thoughts with the instructors and community. In order to achieve that, a really important part of this course does not only live in the content pages exclusively but also in its community  \(_join the Discord community if you have not done it yet!_[![Discord](https://camo.githubusercontent.com/721a04c8d44d23c9284fbe1eac71f39b6f544db7/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3436333735323832303032363337363230322e7376673f6c6162656c3d266c6f676f3d646973636f7264266c6f676f436f6c6f723d66666666666626636f6c6f723d373338394438266c6162656c436f6c6f723d364137454332)](https://discord.gg/gP6z2nR)\) and page comments.
 
 ## Requirements and Pre-work
 
