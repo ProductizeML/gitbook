@@ -69,11 +69,11 @@ In order to **improve** the performance of baseline solutions, more **complex ar
 
 Once you are satisfied with the performance of your model, your prediction system is ready to be deployed into the serving system. ML engineers usually work with a combination of **Docker** for local development, shipping code, and deploying operations, and **Kubernetes** to automate container orchestration systems. The final solution can be presented as a **web interface** or as a **REST API** service, applying inference using CPU or GPU depending on the computational demand.
 
-## Evaluate your KPIs
+## Monitoring and Evaluating your KPIs
 
 Once your product is deployed and users are starting to interact with it, their insights will guide you through the next optimizations. Based on the customer interactions with the product, you will be able to customize the product experience for each customer segment.
 
-During this iteration process, there must be constant communication between product managers and data scientists, in order for the PMs to guide the DS toward the most impactful features to include for the business.
+During this iterative process, there must be constant communication between all stakeholders, in order for Product Managers to guide the Data Science team toward the most impactful features to include for the business.
 
 ## Readings
 
