@@ -8,7 +8,7 @@ description: >-
 
 ## About the course
 
-**Productize ML** provides guidelines and best practices for managing the **end-to-end ML lifecycle** around the _productization_ of Machine Learning solutions.
+**Productize ML** provides guidelines and best practices for managing the **end-to-end Machine Learning lifecycle** and the _productization_ of ML solutions.
 
 ![](.gitbook/assets/ml_lifecycle.png)
 
