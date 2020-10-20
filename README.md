@@ -8,9 +8,9 @@ description: >-
 
 ## About the course
 
-**Productize ML** provides guidelines and best practices for managing the end-to-end ML lifecycle around the _productization_ of Machine Learning solutions.
+**Productize ML** provides guidelines and best practices for managing the **end-to-end ML lifecycle** around the _productization_ of Machine Learning solutions.
 
-This course is about building outstanding and practical products from Machine Learning solutions. For more information on how to start this course, please read the course's[ ](https://productize.ml/Objectives-2abf4db47bb745748f745efa276e5b85)\*\*\*\*[**Objectives**](introduction/objectives.md) and[ ](https://productize.ml/Guidelines-44840ce96a424e4390a6856878b65d59)\*\*\*\*[**Guidelines**](introduction/guidelines.md). 
+![](.gitbook/assets/ml_lifecycle.png)
 
 The course will start diving into the fundamentals around the **Machine Learning** algorithms, from the supervised and unsupervised learning strategies to the latest advances in deep learning techniques; followed by some recommended ways of **accessing and managing data**. Tips and best practices when **training and evaluating models** will be provided. And last but not least, the core piece of this course: how to **bring it to production** and make an outstanding product out of it! 
 
@@ -79,7 +79,7 @@ This course is **constantly growing and expanding**, meaning that some sections 
 {% endtab %}
 
 {% tab title="Productize It" %}
-{% page-ref page="productize-it/untitled.md" %}
+{% page-ref page="productize-it/ml-lifecycle.md" %}
 
 {% page-ref page="productize-it/measuring-business-impact.md" %}
 

@@ -30,7 +30,7 @@
 
 ## Productize It
 
-* [ML Product Development Process](productize-it/untitled.md)
+* [ML Life Cycle](productize-it/ml-lifecycle.md)
 * [Measuring Business Impact](productize-it/measuring-business-impact.md)
 * [PM Terminology](productize-it/pm-terminology.md)
 
