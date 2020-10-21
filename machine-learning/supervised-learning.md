@@ -38,10 +38,10 @@ $$
 
 1. **Multi-variable regression**
 
-Following the same idea, if several variables play a role in the linear prediction, multiple weights  $$w_i$$ $$a = b$$ will apply to each variable in the following form:
+Following the same idea, if several variables play a role in the linear prediction, multiple weights  $$w_i$$ will apply to each variable in the following form:
 
 $$
-f(x, y, z) = w_1x + w_2y + w_3z
+f(x, y, z) = w_0 + w_1x + w_2y + w_3z
 $$
 
 where this time $$w_i $$are the coefficients the algorithm will try to “learn” to provide the most accurate predictions given $$x, y$$, and $$z$$ as input data.
@@ -57,7 +57,7 @@ where this time $$w_i $$are the coefficients the algorithm will try to “learn�
 In Example 2, we can still predict the sales of a company given the number of employees, investment in R&D and income as follows:
 
 $$
-sales_{company_{D}} = w_1*employees + w_2*R\&D_{investment} + w_3 * income
+sales = w_0 + w_1*employees + w_2*R\&D_{investment} + w_3 * income
 $$
 
 ## **Loss function**
@@ -74,8 +74,12 @@ $$
 
 where $$N$$ is the total number of samples.
 
+To find the value of the parameters that minimize the cost function, there is a closed-form solution — in other words, a mathematical equation that gives the result directly. This is called the [Normal Equation](https://www.coursera.org/lecture/machine-learning/normal-equation-2DKxQ).
+
 {% hint style="info" %}
-This way, the goal is to minimize MSE so the accuracy of the model improves. But, how this function can be minimized? The answer is via [Gradient Descent](deep-learning.md#gradient-descent), covered in the [Neural Networks](deep-learning.md#neural-networks) section.
+How can we compute the optimal parameters when we have a lot of data and features and they can't fit in memory or it is computationally too expensive? 
+
+The answer is via [Gradient Descent](deep-learning.md#gradient-descent), covered in the [Neural Networks](deep-learning.md#neural-networks) section.
 {% endhint %}
 
 ## 2. Logistic Regression
@@ -123,6 +127,6 @@ These tree structures are easy to represent and interpret. Leaves on the tree re
 ![An example of a decision tree with the objective of predicting if the weather is good or not for a hike. Source: https://www.sciencedirect.com/topics/computer-science/decision-trees](../.gitbook/assets/3-s2.0-b978012817358900010x-gr007.jpg)
 
 {% hint style="info" %}
-When grouping multiple decision trees together, we refer to this ensemble of models like **random forests**.
+When grouping multiple decision trees together, we refer to this ensemble of models as **random forests**.
 {% endhint %}
 

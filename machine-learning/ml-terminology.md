@@ -8,16 +8,16 @@ description: 'You will learn: basic concepts and terms used in the AI/ML communi
 
 * **Artificial Intelligence**: A non-human program or model that can solve sophisticated tasks. For example, a program or model that translates text or a program or model that identifies diseases from radiologic images both exhibit artificial intelligence.
 * **Machine Learning**: A program or system that builds \(trains\) a predictive model from input data. The system uses the learned model to make useful predictions from new \(never-before-seen\) data drawn from the same distribution as the one used to train the model. Machine learning also refers to the field of study concerned with these programs or systems.
-* **Deep Learning**: type of Machine Learning containing neural network with multiple hidden layers.
+* **Deep Learning**:  Is part of a broader family of machine learning methods based on artificial neural networks that are inspired by information processing and distributed communication nodes in biological systems. The adjective "deep" in deep learning comes from the use of multiple layers in the network.
 
 ### Machine Learning
 
 #### Types
 
-* **Supervised Learning**: Training a model from input data and its corresponding labels. Supervised machine learning is analogous to a student learning a subject by studying a set of questions and their corresponding answers. After mastering the mapping between questions and answers, the student can then provide answers to new \(never-before-seen\) questions on the same topic. Compare with unsupervised machine learning.
+* **Supervised Learning**: Training a model from input data and its corresponding labels. Supervised machine learning is analogous to a student learning a subject by studying a set of questions and their corresponding answers. After mastering the mapping between questions and answers, the student can then provide answers to new \(never-before-seen\) questions on the same topic. E.g. Linear Regression, Convolutional Neural Networks. 
 * **Semi-supervised learning**: Training a model on data where some of the training examples have labels but others don’t. One technique for semi-supervised learning is to infer labels for the unlabeled examples, and then to train on the inferred labels to create a new model. Semi-supervised learning can be useful if labels are expensive to obtain but unlabeled examples are plentiful.
-* **Unsupervised Learning**: Training a model to find patterns in a dataset, typically an unlabeled dataset.
-* **Reinforcement Learning**: A family of algorithms that learn an optimal policy, whose goal is to maximize return when interacting with an environment. For example, the ultimate reward of most games is victory. Reinforcement learning systems can become expert at playing complex games by evaluating sequences of previous game moves that ultimately led to wins and sequences that ultimately led to losses.
+* **Unsupervised Learning**: Training a model to find patterns in a dataset, typically an unlabeled dataset. E.g. K-means, Autoencoders. 
+* **Reinforcement Learning**: A family of algorithms that learn an optimal policy, whose goal is to maximize return when interacting with an environment. For example, the ultimate reward of most games is victory. Reinforcement learning systems can become expert at playing complex games by evaluating sequences of previous game moves that ultimately led to wins and sequences that ultimately led to losses. E.g. DQN, A3C. 
 
 ### Training
 
@@ -49,10 +49,13 @@ $$
 
 #### Classification
 
-* **Accuracy**: which computes the number of correct predictions divided by the total number of samples.
-* **Sensitivity:** also known as recall, is computed as the fraction of true positives that are correctly identified.
-* **Precision**: which is computed as the fraction of retrieved instances that are relevant.
-* **Specificity**: computed as the fraction of true negatives that are correctly identified.
+* **Accuracy**:  Computes the number of correct predictions divided by the total number of samples.
+* **Sensitivity:** Also known as recall, is computed as the fraction of true positives that are correctly identified.
+* **Precision**:  Is computed as the fraction of retrieved instances that are relevant, the ratio between true positives and predicted positives.
+* **Specificity**: Computed as the fraction of true negatives that are correctly identified.
+* **Confusion Matrix**: Table layout that allows visualization of the performance of an algorithm. 
+
+![Confusion Matrix and Metrics \(Courtesy of Wikipedia\)](../.gitbook/assets/screen-shot-2020-10-21-at-9.52.02-am.png)
 
 ### Data Preprocessing
 
