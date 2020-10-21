@@ -19,3 +19,7 @@ Since most all of these questions are hard to measure, Product Managers tend to 
 
 Another recommended approach when measuring and monitoring your solution in order to satisfy your business continuity requirements when launching an AI solution is to try to encode business metrics into your loss function in order to evaluate how well your models are doing regarding your business needs.
 
+{% embed url="https://medium.com/capital-one-tech/the-role-of-a-b-testing-in-the-machine-learning-future-3d2ba035daeb" %}
+
+{% embed url="https://mlinproduction.com/ab-test-ml-models-deployment-series-08/" %}
+

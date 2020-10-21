@@ -11,10 +11,10 @@
 ## Machine Learning
 
 * [Why ML, and why now](machine-learning/why-ml-and-why-now.md)
-* [ML Terminology](machine-learning/ml-terminology.md)
 * [Supervised Learning](machine-learning/supervised-learning.md)
 * [Unsupervised Learning](machine-learning/unsupervised-learning.md)
 * [Deep Learning](machine-learning/deep-learning.md)
+* [ML Terminology](machine-learning/ml-terminology.md)
 
 ## Data Management
 
@@ -32,10 +32,10 @@
 
 * [ML Life Cycle](productize-it/ml-lifecycle.md)
 * [Business Objectives](productize-it/business-objectives.md)
-* [Measuring Business Impact](productize-it/measuring-business-impact.md)
 * [Data Preparation](productize-it/data-preparation.md)
 * [Model Development](productize-it/model-development.md)
 * [Train, Evaluate, and Deploy](productize-it/train-evaluate-and-deploy.md)
+* [Monitoring and Evaluating your KPIs](productize-it/measuring-business-impact.md)
 * [A/B Testing](productize-it/a-b-testing.md)
 * [PM Terminology](productize-it/pm-terminology.md)
 
