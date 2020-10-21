@@ -81,7 +81,7 @@ This course is **constantly growing and expanding**, meaning that some sections 
 {% tab title="Productize It" %}
 {% page-ref page="productize-it/ml-lifecycle.md" %}
 
-{% page-ref page="productize-it/measuring-business-impact.md" %}
+{% page-ref page="productize-it/kpi-evaluation.md" %}
 
 {% page-ref page="productize-it/pm-terminology.md" %}
 {% endtab %}

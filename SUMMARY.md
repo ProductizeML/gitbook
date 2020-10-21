@@ -34,9 +34,9 @@
 * [Business Objectives](productize-it/business-objectives.md)
 * [Data Preparation](productize-it/data-preparation.md)
 * [Model Development](productize-it/model-development.md)
-* [Train, Evaluate, and Deploy](productize-it/train-evaluate-and-deploy.md)
-* [Monitoring and Evaluating your KPIs](productize-it/measuring-business-impact.md)
+* [Train, Evaluate, and Deploy](productize-it/train-evaluate-deploy.md)
 * [A/B Testing](productize-it/a-b-testing.md)
+* [KPI Evaluation](productize-it/kpi-evaluation.md)
 * [PM Terminology](productize-it/pm-terminology.md)
 
 ## Resources
