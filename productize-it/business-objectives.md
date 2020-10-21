@@ -4,6 +4,8 @@ description: 'You will learn: how to define your product KPI(s).'
 
 # Business Objectives
 
+![](../.gitbook/assets/business-objectives.png)
+
 Before even thinking about the type of data, model architectures, types of deployments, or infrastructure that you are going to use, the first step when defining your **product roadmap** towards building an AI product is quite simple: you should start defining the **business needs**.
 
 Some questions that might help in defining these needs are:

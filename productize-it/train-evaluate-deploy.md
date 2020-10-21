@@ -1,5 +1,7 @@
 # Train, Evaluate, and Deploy
 
+![](../.gitbook/assets/train-eval-deploy.png)
+
 Once you deploy the first version of your product is when you really start working on it since you will start understanding better your users and their real needs.
 
 ![End-to-end workflow for training, evaluation and deploying models.](../.gitbook/assets/train_eval_deploy.png)

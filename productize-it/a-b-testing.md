@@ -6,6 +6,8 @@ description: >-
 
 # A/B Testing
 
+![](../.gitbook/assets/model-monitor.png)
+
 We can find multiple strategies to measure your machine learning model and product impact over your business, such as reactions from your **stakeholders**, **partners**, and **employees**, **Return on Investment \(ROI\)**, among others, but in this course, we will focus on the well-known **A/B testing** approach.
 
 **A/B testing** can help to obtain research statistical significance when running two different experiments in order to obtain a better sense of your customers.

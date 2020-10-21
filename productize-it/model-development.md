@@ -6,9 +6,11 @@ description: >-
 
 # Model Development
 
+![](../.gitbook/assets/model-development.png)
+
 Before starting to develop your own models, you should probably spend some time looking if someone or any other company has faced the same problem before. If so, maybe you might consider coming up with a similar approach or requesting access to one of their services.
 
-You can find platforms like [Model Zoo](https://modelzoo.co/), that curates and organizes research works and makes deep learning pre-trained models available to either plugging it into your system or training it on the top of their task. You can find different categories that go from computer vision, NLP, unsupervised learning, or reinforcement learning.
+You can find platforms like [Model Zoo](https://modelzoo.co/), that curates and organizes research works and makes deep learning pretrained models available to either plugging it into your system or training it on the top of their task. You can find different categories that go from computer vision, NLP, unsupervised learning, or reinforcement learning.
 
 {% embed url="https://modelzoo.co/" %}
 
