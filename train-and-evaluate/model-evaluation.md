@@ -10,7 +10,7 @@ description: 'You will learn: how to assess to evaluation of ML models.'
 
   $$Accuracy = \frac{number \space correct \space predictions}{number \space of \space samples}$$
 
-* **Sensitivity**: also know as **recall**, is computed as the fraction of true positives that are correctly identified.
+* **Sensitivity**: also known as **recall**, is computed as the fraction of true positives that are correctly identified.
 
   $$Sensitivity = \frac{number \space of \space true \space positives}{number \space of \space true \space positives + number \space of \space false \space negatives}$$
 
@@ -21,6 +21,8 @@ description: 'You will learn: how to assess to evaluation of ML models.'
 * **Specificity**: computed as the fraction of true negatives that are correctly identified.
 
   $$Specificity = \frac{number \space of \space true \space negatives}{number \space of \space true \space negatives + number \space of \space false \space positives}$$
+
+
 
 🚧 _This section is still under construction!_
 

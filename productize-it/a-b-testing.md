@@ -1,3 +1,9 @@
+---
+description: >-
+  You will learn: an effective way to monitor and measure your solution via A/B
+  testing.
+---
+
 # A/B Testing
 
 We can find multiple strategies to measure your machine learning model and product impact over your business, such as reactions from your **stakeholders**, **partners**, and **employees**, **Return on Investment \(ROI\)**, among others, but in this course, we will focus on the well-known **A/B testing** approach.
