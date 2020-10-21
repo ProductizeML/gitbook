@@ -1,5 +1,5 @@
 ---
-description: 'You will learn: how to define KPIs'
+description: 'You will learn: how to define your product KPI(s).'
 ---
 
 # Business Objectives

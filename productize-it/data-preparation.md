@@ -1,6 +1,12 @@
+---
+description: >-
+  You will learn: (mandatory) data checks to perform before developing your
+  model solution.
+---
+
 # Data Preparation
 
-As previously mentioned in the [Data Access](../data-management/untitled.md) lecture, getting access to the matching data domain of your problem, and curating this data is a time-consuming and demanding job. For this reason, it can introduce risk factors as previously mentioned in the _Risk impact assessment for ML products_ table.
+As previously mentioned in the [Data Access](../data-management/untitled.md) lecture, getting access to the matching data domain of your problem, and curating this data is a time-consuming and demanding job. For this reason, it can introduce risk factors as previously mentioned in the _ML risk impact assessment_ table from [Business Objectives](business-objectives.md).
 
 Data and ML technologies live always in **symbiosis**. We can also see it as ML being the hammer, and data the nail — the hammer will completely be useless without the presence of the nail. And not only that, but we will find plenty of types of nail and hammers, but only finding the right match will make it work.
 
