@@ -39,21 +39,11 @@ This course is **constantly growing and expanding**, meaning that some sections 
 
 ## Course Lectures
 
-### Course Breakdown
+### Lectures Breakdown
 
 {% tabs %}
-{% tab title="Introduction" %}
-{% page-ref page="introduction/objectives.md" %}
-
-{% page-ref page="introduction/guidelines.md" %}
-
-{% page-ref page="introduction/untitled.md" %}
-{% endtab %}
-
 {% tab title="Machine Learning" %}
 {% page-ref page="machine-learning/why-ml-and-why-now.md" %}
-
-{% page-ref page="machine-learning/ml-terminology.md" %}
 
 {% page-ref page="machine-learning/supervised-learning.md" %}
 
@@ -76,28 +66,28 @@ This course is **constantly growing and expanding**, meaning that some sections 
 {% page-ref page="train-and-evaluate/training-neural-networks.md" %}
 
 {% page-ref page="train-and-evaluate/model-evaluation.md" %}
+
+{% page-ref page="productize-it/business-objectives.md" %}
+
+{% page-ref page="productize-it/business-objectives.md" %}
+
+{% page-ref page="productize-it/business-objectives.md" %}
 {% endtab %}
 
 {% tab title="Productize It" %}
 {% page-ref page="productize-it/ml-lifecycle.md" %}
 
+{% page-ref page="productize-it/business-objectives.md" %}
+
+{% page-ref page="productize-it/data-preparation.md" %}
+
+{% page-ref page="productize-it/model-development.md" %}
+
+{% page-ref page="productize-it/train-evaluate-deploy.md" %}
+
+{% page-ref page="productize-it/a-b-testing.md" %}
+
 {% page-ref page="productize-it/kpi-evaluation.md" %}
-
-{% page-ref page="productize-it/pm-terminology.md" %}
-{% endtab %}
-
-{% tab title="Hands-on Practice" %}
-{% page-ref page="hands-on/get-started-python/python-ml.md" %}
-
-{% page-ref page="hands-on/get-started-python/python-installation/" %}
-{% endtab %}
-
-{% tab title="Resources" %}
-{% page-ref page="resources/readings.md" %}
-
-{% page-ref page="resources/courses.md" %}
-
-{% page-ref page="resources/videos.md" %}
 {% endtab %}
 {% endtabs %}
 
