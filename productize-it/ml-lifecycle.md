@@ -1,26 +1,12 @@
 ---
-description: You will learn the end-to-end process to develop an ML product.
+description: 'You will learn: the end-to-end process to develop an ML product.'
 ---
 
 # ML Life Cycle
 
-![](../.gitbook/assets/ml_life_cycle.png)
+![](../.gitbook/assets/ml_life_cycle%20%281%29.png)
 
-## Business Objectives
-
-Before thinking about the type of data, model architectures, types of deployments, or even infrastructure that you are going to use, the first step when defining your strategy towards building an AI product is quite simple: you should be able to define the **business needs**.
-
-Some questions that might help in defining these needs are:
-
-* **What service or feature my product would benefit from automation?**
-* **What internal processes and business assets I can make more efficient?** Machine Learning can also help you not only build better products but also in your internal processes.
-* **How does my data look like?** Data can definitely guide you to define a new product feature and evaluate it as a potential business need.
-
-Depending on the complexity of the problem to solve, we will determine the type of solution required. In most of the cases, Machine Learning approaches adds more uncertainty to the product roadmaps, so we do not want to overcomplicate a solution that can be solved with traditional approaches. So you should start with simple approaches that can partially solve your problem, and gradually increase the coverage of this.
-
-A safe approach to start incorporating AI solutions to your product is by measuring the **risks and impact** of your product's features and start with those with lower risk and higher impact.
-
-![Risk impact assessment for ML products.](../.gitbook/assets/component_1.png)
+## 
 
 ## Data Access and Processing 
 
@@ -71,7 +57,13 @@ Once you are satisfied with the performance of your model, your prediction syste
 
 ## Monitoring and Evaluating your KPIs
 
-Once your product is deployed and users are starting to interact with it, their insights will guide you through the next optimizations. Based on the customer interactions with the product, you will be able to customize the product experience for each customer segment.
+Once your product is deployed and users start interacting with it, their insights will guide you through the next optimizations steps. A good way to evaluate the success of these is by defining **KPI \(Key Performance Indicator\)** that are aligned with your [Business Objectives](ml-lifecycle.md#business-objectives) as described above. 
+
+
+
+Based on the customer interactions with the product, you will be able to customize the product experience for each customer segment.
+
+
 
 During this iterative process, there must be constant communication between all stakeholders, in order for Product Managers to guide the Data Science team toward the most impactful features to include for the business.
 

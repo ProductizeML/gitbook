@@ -31,7 +31,9 @@
 ## Productize It
 
 * [ML Life Cycle](productize-it/ml-lifecycle.md)
+* [Business Objectives](productize-it/business-objectives.md)
 * [Measuring Business Impact](productize-it/measuring-business-impact.md)
+* [A/B Testing](productize-it/a-b-testing.md)
 * [PM Terminology](productize-it/pm-terminology.md)
 
 ## Resources
@@ -47,4 +49,8 @@
   * [Python Installation](hands-on/get-started-python/python-installation/README.md)
     * [MacOS](hands-on/get-started-python/python-installation/python_macos.md)
     * [Linux](hands-on/get-started-python/python-installation/python_linux.md)
+
+---
+
+* [Data Access and Processing](data-access-and-processing.md)
 
