@@ -6,9 +6,21 @@ description: 'You will learn: the end-to-end process to develop an ML product.'
 
 ![](../.gitbook/assets/ml_life_cycle%20%281%29.png)
 
+And we finally arrived to the point of . In the following lectures, we will review each of the life cycle stages:
+
+{% page-ref page="business-objectives.md" %}
+
+{% page-ref page="data-preparation.md" %}
+
+{% page-ref page="model-development.md" %}
+
+{% page-ref page="ml-lifecycle.md" %}
+
+{% page-ref page="ml-lifecycle.md" %}
+
+## Some considerations
 
 
-## Definitions and metrics
 
 We can split our product initial stages as:
 
@@ -16,7 +28,7 @@ We can split our product initial stages as:
 * ❤️ **MLP \(Minimum Lovable Product\):** similar to an MVP, but with special consideration for its design and UI. It aims to solve the problem, but also delight users.
 * 💰 **MMP \(Minimum Marketable Product\):** this is the version of your MVP \(or MLP\) which you will launch to market.
 
-
+Let's get started! 
 
 ## Readings
 
