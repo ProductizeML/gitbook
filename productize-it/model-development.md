@@ -1,3 +1,9 @@
+---
+description: >-
+  You will learn: how to reuse existing solutions that can be adapted to your
+  problem.
+---
+
 # Model Development
 
 Before starting to develop your own models, you should probably spend some time looking if someone or any other company has faced the same problem before. If so, maybe you might consider coming up with a similar approach or requesting access to one of their services.
