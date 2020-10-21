@@ -66,12 +66,6 @@ This course is **constantly growing and expanding**, meaning that some sections 
 {% page-ref page="train-and-evaluate/training-neural-networks.md" %}
 
 {% page-ref page="train-and-evaluate/model-evaluation.md" %}
-
-{% page-ref page="productize-it/business-objectives.md" %}
-
-{% page-ref page="productize-it/business-objectives.md" %}
-
-{% page-ref page="productize-it/business-objectives.md" %}
 {% endtab %}
 
 {% tab title="Productize It" %}
