@@ -6,15 +6,13 @@ description: >-
 
 # Unsupervised Learning
 
-## Unsupervised Learning
-
 A really important requirement we asked our data to fulfill when talking about [Supervised Learning ](supervised-learning.md)techniques is this to contain associated labels. 
 
-This is, in fact, a really time-expensive demand given the large volumes of data some Machine Learning algorithms require to generalize well during training. Not only time but also the economic cost associated with the labeling process can be expensive when the domain knowledge belongs to a specific field like for instance medical data.
+This is, in fact, a really time-expensive demand given the large volumes of data some Machine Learning algorithms require generalizing well during training. Not only time but also the economic cost associated with the labelling process can be expensive when the domain knowledge belongs to a specific field like for instance medical data.
 
 ![https://prooffreaderswhimsy.blogspot.com/2014/11/machine-learning.html](../.gitbook/assets/_machine_learning.png)
 
-Despite this, it is common to find scenarios where large volumes of unlabeled and unstructured data are available and we still want to understand it better. These are the cases where **unsupervised learning** techniques can help to find hidden patterns in this unlabeled data.
+Despite this, it is common to find scenarios where large volumes of unlabelled and unstructured data are available, and we still want to understand it better. These are the cases where **unsupervised learning** techniques can help to find hidden patterns in this unlabelled data.
 
 ## Clustering
 
