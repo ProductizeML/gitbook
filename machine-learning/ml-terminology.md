@@ -33,9 +33,9 @@ $$
 
 #### Hyperparameters
 
-* **Batch size**: The batch size is attributed to the number of training images in one forward or backward pass. It is important to highlight that the higher the batch size, the more memory will be needed.
+* **Batch size**: The batch size is attributed to the number of training samples in one forward or backward pass. It is important to highlight that the higher the batch size, the more memory will be needed.
 * **Iterations**: The number of iterations is the number forward or backward of passes: each pass using a batch size number of images.
-* **Epoch**: The number of epochs measures how many times every image has been seen during training \(i.e. one epoch means that every image has been seen once\). It can be also understood as a one forward pass and one backward pass of all the training examples.
+* **Epoch**: The number of epochs measures how many times every image has been seen during training \(i.e. one epoch means that every sample has been seen once\). It can be also understood as a one forward pass and one backward pass of all the training examples.
 
 $$
 epochs = \frac{batch\_size * iterations}{training\_
