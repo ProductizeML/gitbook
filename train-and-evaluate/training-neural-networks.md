@@ -66,8 +66,8 @@ The penalty on a model's complexity. Regularization helps prevent [**overfitting
 
 * [**L1 regularization**](https://developers.google.com/machine-learning/glossary#L1_regularization)
 * [**L2 regularization**](https://developers.google.com/machine-learning/glossary#L2_regularization)
-* [**dropout regularization**](https://developers.google.com/machine-learning/glossary#dropout_regularization)
-* [**early stopping**](https://developers.google.com/machine-learning/glossary#early_stopping) \(this is not a formal regularization method, but can effectively limit overfitting\)
+* [D**ropout regularization**](https://developers.google.com/machine-learning/glossary#dropout_regularization)
+* [E**arly stopping**](https://developers.google.com/machine-learning/glossary#early_stopping) \(this is not a formal regularization method, but can effectively limit overfitting\)
 
 ## Model Ensemble
 
