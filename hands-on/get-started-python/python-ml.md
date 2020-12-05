@@ -1,5 +1,5 @@
 ---
-description: Why python for machine learning?
+description: Why Python for machine learning?
 ---
 
 # Python for Machine Learning
