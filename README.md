@@ -1,6 +1,6 @@
 ---
 description: >-
-  A self-study guide for Developers and Product Managers building Machine
+  A self-study guide for teams building Artificial Intelligence and Machine
   Learning products.
 ---
 
@@ -84,6 +84,10 @@ This course is **constantly growing and expanding**, meaning that some sections 
 {% page-ref page="productize-it/kpi-evaluation.md" %}
 {% endtab %}
 {% endtabs %}
+
+![](.gitbook/assets/group-1.png)
+
+\*\*\*\*[                                                       **Productize ML: A Machine Learning in Production Course**](https://smartech.gatech.edu/handle/1853/63975)
 
 ## Newsletter
 

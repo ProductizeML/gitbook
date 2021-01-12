@@ -5,8 +5,10 @@
 ## Introduction
 
 * [Objectives](introduction/objectives.md)
+* [About the Course](introduction/about-the-course.md)
 * [Guidelines](introduction/guidelines.md)
 * [Syllabus](introduction/untitled.md)
+* [After Completion](introduction/after-completion.md)
 
 ## Machine Learning
 
@@ -47,9 +49,8 @@
 
 ## Hands-On
 
-* [Get Started with Python](hands-on/get-started-python/README.md)
-  * [Python for Machine Learning](hands-on/get-started-python/python-ml.md)
-  * [Python Installation](hands-on/get-started-python/python-installation/README.md)
-    * [MacOS](hands-on/get-started-python/python-installation/python_macos.md)
-    * [Linux](hands-on/get-started-python/python-installation/python_linux.md)
+* [Python for Machine Learning](hands-on/python-ml/README.md)
+  * [Python Installation](hands-on/python-ml/python-installation/README.md)
+    * [MacOS](hands-on/python-ml/python-installation/python_macos.md)
+    * [Linux](hands-on/python-ml/python-installation/python_linux.md)
 
