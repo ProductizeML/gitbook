@@ -10,16 +10,16 @@ Firstly, it is crucial to understand that your data will keep growing over time,
 
 Once you move on to train models, try to keep your system _simple_:
 
-* start with **light models**, **small architectures** so they can be easily debugged, e.g. [MobileNet](https://arxiv.org/abs/1704.04861) for visual classification tasks.
-* take a **small sample of your dataset** that you are certain that is properly curated.
-* try approaches that **have worked for others**, e.g. for convolutional networks, use ReLU activation functions; or for LSTM models, TanH activation.
-* **normalize** your data before feeding it to the model.
-* for class imbalance problems, start with a **balanced subset** so you can skip weighting your loss function.
-* keep the **number of classes fixed**, so you can guarantee a fair comparison between models.
+* Start with **light models**, **small architectures** so they can be easily debugged, e.g. [MobileNet](https://arxiv.org/abs/1704.04861) for visual classification tasks.
+* Take a **small sample of your dataset** that you are certain that is properly curated.
+* Try approaches that **have worked for others**, e.g. for convolutional networks, use ReLU activation functions; or for LSTM models, TanH activation.
+* **Normalize** your data before feeding it to the model.
+* For class imbalance problems, start with a **balanced subset, so** so you can skip weighting your loss function.
+* Keep the **number of classes fixed**, so you can guarantee a fair comparison between models.
 
 ## Debugging
 
-Before evaluating your model, is highly recommended **debugging** your system to make sure that the model is not **overfitting** to your training data, making sure your experiments are **reproducible** \(using seed values can help the debugging process\), **compare** similar architectures trained on the same data with small variations to the hyper-parameter values, or take **third-party models** from frameworks like Keras that they most of the times guarantee correct functionality. **Unit tests** are strongly suggested to be included in your code pipeline.
+Before evaluating your model, it is highly recommended **debugging** your system to make sure that the model is not **overfitting** to your training data, making sure your experiments are **reproducible** \(using seed values can help the debugging process\), **compare** similar architectures trained on the same data with small variations to the hyper-parameter values, or take **third-party models** from frameworks like Keras that they most of the time guarantee correct functionality. **Unit tests** are strongly suggested to be included in your code pipeline.
 
 In order to guarantee a fair evaluation, validation techniques like **cross-validation** are commonly used. A recommended practice is to **benchmark** your solution to others like challenges or public test sets.
 
