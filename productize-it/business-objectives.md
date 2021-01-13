@@ -14,7 +14,7 @@ Some questions that might help in defining these needs are:
 * **What internal processes and business assets I can make more efficient?** Machine Learning can also help you not only build better products but also in your internal processes.
 * **How does my data look like?** Data can definitely guide you to define a new product feature and evaluate it as a potential business need.
 
-![](../.gitbook/assets/risk-table.png)
+![ML Risk-Impact assessment table](../.gitbook/assets/risk-table.png)
 
 Depending on the complexity of the problem to solve, we will determine the type of solution required. Most of the time, Machine Learning approaches adds more uncertainty to the product roadmaps, so we do not want to overcomplicate a solution that can be solved with traditional approaches. So you should start with simple approaches that can partially solve your problem, and gradually increase the coverage of this.
 
