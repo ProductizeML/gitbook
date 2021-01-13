@@ -15,6 +15,6 @@ Data and ML technologies always live in **symbiosis**. We can also see it as ML 
 Keeping this in mind, we can think about three common scenarios:
 
 1. **We have data, but technology is not ready**. This is the case when you must spend time understanding your data in order to know what is the best technology to use. Plenty of data does not particularly mean that it can feed your ML algorithm. Once you have _learned_ your data, it is time to hire some data scientists to come up with the most suitable technology. 
-2. **We \(think to\) have the technology ready, but we lack of data**. It seems we have the solution well thought and we know what the direction to go is, but we still need to collect the right data. 
+2. **We \(think to\) have the technology ready, but we lack of data**. It seems we have the solution well thought, and we know what the direction to go is, but we still need to collect the right data. 
 3. **Data and technology are available**. This is the clearest of the cases where you should start developing and training your models, deploy your product, and iterate over it to clearly understand your customers' needs. 
 
