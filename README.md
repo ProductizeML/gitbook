@@ -33,10 +33,6 @@ Join the community at [![Discord](https://camo.githubusercontent.com/721a04c8d44
 This course is **constantly growing and expanding**, meaning that some sections might be under construction 🚧 — do NOT panic, and instead leave a message of what you would like to see!
 {% endhint %}
 
-## Instructors
-
-![](.gitbook/assets/team%20%283%29.png)
-
 ## Course Lectures
 
 ### Lectures Breakdown
@@ -85,13 +81,19 @@ This course is **constantly growing and expanding**, meaning that some sections 
 {% endtab %}
 {% endtabs %}
 
-![](.gitbook/assets/group-1.png)
+![](.gitbook/assets/group-1%20%282%29.png)
 
 \*\*\*\*[                                                       **Productize ML: A Machine Learning in Production Course**](https://smartech.gatech.edu/handle/1853/63975)
+
+{% embed url="https://youtu.be/B7\_xPTQtZIE" %}
 
 ## Newsletter
 
 {% embed url="https://adria756514.typeform.com/to/V4BDqjYA" %}
+
+### About us
+
+![](.gitbook/assets/about-us.png)
 
 **Have a question or suggestion?** You can reach us at [`adria@productize.ml`](mailto:adria@productize.ml) .
 
